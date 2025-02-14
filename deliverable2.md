@@ -143,11 +143,6 @@ As a beginner, I want to know the best workouts to do for my growth.
 - Priority: High
 - Effort Required:8
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
 As someone who doesn't have time to sit down for a long time to detail my workout, I want to be able to quickly record my workout without having to make many details so that I can be more consistent in my goal progress.
 - Priority: Medium
 - Effort Required: 2
@@ -156,7 +151,6 @@ As a person who works out at a gym, I want to be able to use the website on my p
 - Priority: High
 - Effort Required: 21
 
->>>>>>> Stashed changes
 ## 8. Issue Tracker
 
 *The user stories should be registered in your GitHub issue tracker. Include here the link for your issue tracker and a screenshot of what you did.*
