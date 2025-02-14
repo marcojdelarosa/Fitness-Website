@@ -89,6 +89,8 @@ Workout recommendation system
 
 ***Grading criteria (8 points): Follow the template to describe the use cases. Present an interface sketch for each use case. Describe the use case as a dialog between the user and the system. Do not use UI language in the description of the use case.***
 
+![Use Case Diagram](image.png)
+
 ## 7. User Stories
 
 *Write two user stories for each member of the group. They can be related to the same features described in the use cases or to different ones. Adopt the following format: "As a ROLE, I want SOMETHING so that GOAL."*
@@ -97,8 +99,6 @@ Workout recommendation system
 
 ***Grading criteria (6 points): Use the provided format. The user stories should be in an adequate level of granularity (not too broad nor too specific). Provide the priority and estimation for each user story.***
 
-<<<<<<< Updated upstream
-=======
 As a user, I want to track my workout progress so that I can see improvements over time.
 - Priority: High
 - Estimated effort: 10 Hours
@@ -106,6 +106,7 @@ As a user, I want to track my workout progress so that I can see improvements ov
 As a user, I want to be able to create an account on the website so that I can save personalized information.
 - Priority: High
 - Estimated effort: 8 Hours
+
 
 As a intermediate gym-goer, I want to be able to request workout recommendations so that I can try out new exercises.
 - Priority: High
@@ -115,9 +116,12 @@ As someone new to working out, I want to be able to track my sets and repition i
 - Priority: High
 - Estimated effort: 8 Hours
 
->>>>>>> Stashed changes
 ## 8. Issue Tracker
 
 *The user stories should be registered in your GitHub issue tracker. Include here the link for your issue tracker and a screenshot of what you did.*
 
 ***Grading criteria (1 point): Provide the URL and screenshot of the issue tracker. The user stories should be registered there.***
+
+https://github.com/McKayHartman/Fitness-Website/issues
+
+![Screenshot (2)](https://github.com/user-attachments/assets/8d371173-3421-40ec-b315-07f73f41ec20)
