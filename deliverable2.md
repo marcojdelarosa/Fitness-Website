@@ -7,16 +7,12 @@
 *Provide a statement to summarize the problem solved by your project according to the following structure (which is based on the OpenUP Vision Template):*
 
 The problem of
-
-*[describe the problem]*
-
+Irregular or unproductive fitness sessions
 affects
-
-*[the stakeholders affected by the problem]*
-
+people who want to reach their fitness goals;
 the impact of which is
+Ineffective workout routines resulting in little to no progress.
 
-*[what is the impact of the problem? What does it cost?]*
 
 *Example of a problem statement: “The problem of inefficient prioritization of homework assignments affects college students; the impact of which is delivering assignments past due and receiving low grades.” The problem should read as a problem (must be something bad that makes people spend time or money in an inefficient way.*
 
@@ -24,19 +20,17 @@ the impact of which is
 
 *A product position statement communicates the intent of the application and the importance of the project to all concerned personnel. The product should mitigate the aforementioned problem. Provide a statement according to the following structure:*
 
-For *[target customer]*
-
-Who *[statement of the need or opportunity]*
-
-The *(product name) [product name]*
-
-is a *[product category]*
-
-That *[statement of key benefit; that is, the compelling reason to buy]*
-
-Unlike *[primary competitive alternative]*
-
-Our product *[statement of primary differentiation]*
+For
+Internet users
+Who
+Struggle with fitness planning,
+The Fitness Planner is a website
+That
+Assists users in planning and developing fitness routines and setting and completing fitness goals for free
+Unlike
+MyFitnessPal,
+Our product
+Is a free website that centralizes and automates all fitness planning functions.
 
 *Example of a product position statement: “For college students who have many parallel homework assignments, MyPrioritizationApp is a planning app that crowdsources the identification of complexity and time necessary to accomplish assignments, supporting the informed prioritization; unlike myHomework Student Planner, our product does not rely on the judgment of a student who hasn’t started the homework yet.” Make sure your product position statement is related to your problem.*
 
@@ -44,27 +38,23 @@ Our product *[statement of primary differentiation]*
 
 *Report the value propositions and customer segments of your product. Make sure that your value proposition is coherent with the product position statement and contains the following elements:*
 
-*i. what your product is*
+i) What our product is: Our product is an easy-to-use fitness planning and tracking website.
+ii) Our target customer: Our target customer are internet users who struggle with creating workout routines and those that find it difficult to reach their fitness goals.
+iii) The value our product provides: We provide a product that is both minimal and efficient so that it provides the easiest user experience, making it less time-consuming to use a workout planner.
+iv) Why the product is unique: The product is unique because it will be less feature-heavy, more user-friendly, and will be without a subscription.
 
-*ii. the target customer*
-
-*iii. the value your product provides*
-
-*iv. why your product is unique*
-
-*Example:*
-
-*Value proposition: MyPrioritizationApp is a crowdsourced planning app {(i) what your product is} that allows college students {(ii) target costumer} to make better use of their time {(iii) the value your product provides}, prioritizing homework based on more accurate information of required time and complexity of the assignments {(iv) why your product is unique}.”*
-
-*Consumer segment: College students who have many parallel homework assignments*
+Consumer segment: Internet users who have busy schedules
 
 ***Grading criteria (3 points, 1 for each section): The content of the subsections should contain all the required elements, follow the provided template, and be consistent with each other. The text should not contain typos or grammar issues.***
 
 ## 2. Stakeholders
+Users who struggle with planning their workouts
+-Keeping mental notes of fitness goals does not improve routines
+Users who don’t want to pay for expensive apps
+-Most alternatives and competitors have monthly or annual fees that deter users
+Personal trainers
+-Personal trainers can use it for each of their clients to keep track of statistics and fitness habits
 
-*Make a list of all stakeholders of the project with a brief description of each one of them, emphasizing any responsibilities with the project. Examples of stakeholders include users, clients, competitors, detractors, developers, etc.*
-
-***Grading criteria (1 point): The stakeholders can’t be too generic or specific. The list should reflect what was described in Section 1***
 
 ## 3. Functional Requirements (Features)
 
@@ -81,10 +71,11 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 ***Grading criteria (2 points): Follow the ISO-IEC terminology, explain why they are important, provide verifiability criteria for each requirement.***
 
 ## 5. Minimum Viable Product
+Personal user accounts/login
+Calendar system for tracking consistency
+Goal progress tracker
+Workout recommendation system
 
-*What will be your MVP? Which features are you going to validate? How?*
-
-***Grading criteria (2 points): Describe what would be considered the Minimal Viable Product and how it will be tested (e.g., via implementation, prototyping, Wizard of Woz, etc.). Make clear what you are going to validate. The MVP should be coherent with the previous sections.***
 
 ## 6. Use Cases
 
