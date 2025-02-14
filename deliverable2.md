@@ -107,6 +107,15 @@ As a user, I want to be able to create an account on the website so that I can s
 - Priority: High
 - Estimated effort: 8 Hours
 
+
+As a intermediate gym-goer, I want to be able to request workout recommendations so that I can try out new exercises.
+- Priority: High
+- Estimated effort: 12 Hours
+
+As someone new to working out, I want to be able to track my sets and repition in order to stay consistent in my fitness journey.
+- Priority: High
+- Estimated effort: 8 Hours
+
 ## 8. Issue Tracker
 
 *The user stories should be registered in your GitHub issue tracker. Include here the link for your issue tracker and a screenshot of what you did.*
