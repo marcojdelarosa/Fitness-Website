@@ -70,7 +70,21 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 
 ***Grading criteria (2 points): Follow the ISO-IEC terminology, explain why they are important, provide verifiability criteria for each requirement.***
 
+1. Portability
+    - Goal: Website is usable on both desktop AND mobile devices.
+
+2. Usability
+    - Goal: Navigatable without external guidance.
+
+3. Availability
+    - Goal: Downtime of servers is kept to a minimum of 1 hour per week. 
+
+4. Securability
+    - Goal: Each users data can only be accessed by that user.
+
+
 ## 5. Minimum Viable Product
+
 Personal user accounts/login
 Calendar system for tracking consistency
 Goal progress tracker
@@ -127,9 +141,9 @@ As a beginner, I want to know if the workouts I'm doing are optimal for my growt
 - Priority: Medium
 - Estimated Effort: 13
 
-As a user, I want to be able to share my achievements with friends on the website
--Priority: Low
--Estimated effort: 5
+As a user, I want to be able to share my achievements with friends on the website.
+- Priority: Low
+- Estimated effort: 5
 
 As a user, I want to be able to share my achievements with friends on the website
 - Priority: Low
