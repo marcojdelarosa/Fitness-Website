@@ -6,17 +6,9 @@
 
 *Provide a statement to summarize the problem solved by your project according to the following structure (which is based on the OpenUP Vision Template):*
 
-The problem of
+The problem of **irregular or unproductive fitness sessions** affects **people who want to reach their fitness goals;** the impact of which is
+**ineffective workout routines resulting in little to no progress.**
 
-*[describe the problem]*
-
-affects
-
-*[the stakeholders affected by the problem]*
-
-the impact of which is
-
-*[what is the impact of the problem? What does it cost?]*
 
 *Example of a problem statement: “The problem of inefficient prioritization of homework assignments affects college students; the impact of which is delivering assignments past due and receiving low grades.” The problem should read as a problem (must be something bad that makes people spend time or money in an inefficient way.*
 
@@ -24,19 +16,17 @@ the impact of which is
 
 *A product position statement communicates the intent of the application and the importance of the project to all concerned personnel. The product should mitigate the aforementioned problem. Provide a statement according to the following structure:*
 
-For *[target customer]*
-
-Who *[statement of the need or opportunity]*
-
-The *(product name) [product name]*
-
-is a *[product category]*
-
-That *[statement of key benefit; that is, the compelling reason to buy]*
-
-Unlike *[primary competitive alternative]*
-
-Our product *[statement of primary differentiation]*
+For
+Internet users
+Who
+Struggle with fitness planning,
+The Fitness Planner is a website
+That
+Assists users in planning and developing fitness routines and setting and completing fitness goals for free
+Unlike
+MyFitnessPal,
+Our product
+Is a free website that centralizes and automates all fitness planning functions.
 
 *Example of a product position statement: “For college students who have many parallel homework assignments, MyPrioritizationApp is a planning app that crowdsources the identification of complexity and time necessary to accomplish assignments, supporting the informed prioritization; unlike myHomework Student Planner, our product does not rely on the judgment of a student who hasn’t started the homework yet.” Make sure your product position statement is related to your problem.*
 
@@ -44,27 +34,27 @@ Our product *[statement of primary differentiation]*
 
 *Report the value propositions and customer segments of your product. Make sure that your value proposition is coherent with the product position statement and contains the following elements:*
 
-*i. what your product is*
+1. What our product is: Our product is an easy-to-use fitness planning and tracking website.
 
-*ii. the target customer*
+2. Our target customer: Our target customer are internet users who struggle with creating workout routines and those that find it difficult to reach their fitness goals.
 
-*iii. the value your product provides*
+3. The value our product provides: We provide a product that is both minimal and efficient so that it provides the easiest user experience, making it less time-consuming to use a workout planner.
 
-*iv. why your product is unique*
+4. Why the product is unique: The product is unique because it will be less feature-heavy, more user-friendly, and will be without a subscription.
 
-*Example:*
-
-*Value proposition: MyPrioritizationApp is a crowdsourced planning app {(i) what your product is} that allows college students {(ii) target costumer} to make better use of their time {(iii) the value your product provides}, prioritizing homework based on more accurate information of required time and complexity of the assignments {(iv) why your product is unique}.”*
-
-*Consumer segment: College students who have many parallel homework assignments*
+**Consumer segment: Internet users who have busy schedules.**
 
 ***Grading criteria (3 points, 1 for each section): The content of the subsections should contain all the required elements, follow the provided template, and be consistent with each other. The text should not contain typos or grammar issues.***
 
 ## 2. Stakeholders
 
-*Make a list of all stakeholders of the project with a brief description of each one of them, emphasizing any responsibilities with the project. Examples of stakeholders include users, clients, competitors, detractors, developers, etc.*
+- Users who struggle with planning their workouts:
+  - Keeping mental notes of fitness goals does not improve routines
+- Users who don’t want to pay for expensive apps:
+  - Most alternatives and competitors have monthly or annual fees that deter users.
+- Personal trainers:
+  - Personal trainers can use it for each of their clients to keep track of statistics and fitness habits.
 
-***Grading criteria (1 point): The stakeholders can’t be too generic or specific. The list should reflect what was described in Section 1***
 
 ## 3. Functional Requirements (Features)
 
@@ -94,10 +84,11 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 ***Grading criteria (2 points): Follow the ISO-IEC terminology, explain why they are important, provide verifiability criteria for each requirement.***
 
 ## 5. Minimum Viable Product
+Personal user accounts/login
+Calendar system for tracking consistency
+Goal progress tracker
+Workout recommendation system
 
-*What will be your MVP? Which features are you going to validate? How?*
-
-***Grading criteria (2 points): Describe what would be considered the Minimal Viable Product and how it will be tested (e.g., via implementation, prototyping, Wizard of Woz, etc.). Make clear what you are going to validate. The MVP should be coherent with the previous sections.***
 
 ## 6. Use Cases
 
@@ -111,6 +102,8 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 
 ***Grading criteria (8 points): Follow the template to describe the use cases. Present an interface sketch for each use case. Describe the use case as a dialog between the user and the system. Do not use UI language in the description of the use case.***
 
+![Use Case Diagram](image.png)
+
 ## 7. User Stories
 
 *Write two user stories for each member of the group. They can be related to the same features described in the use cases or to different ones. Adopt the following format: "As a ROLE, I want SOMETHING so that GOAL."*
@@ -119,8 +112,72 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 
 ***Grading criteria (6 points): Use the provided format. The user stories should be in an adequate level of granularity (not too broad nor too specific). Provide the priority and estimation for each user story.***
 
+As a user, I would like the program to connect to send calendar notifications to my email address so I can be notified what my workouts should be for the week.
+- Priority: Low
+- Estimated Effort: 3
+
+As a user, I want to be able to upload workouts directly from my Apple watch so I don't have to manually input everything.
+- Priority: Low
+- Estimated Effort: 21
+
+As someone who has had trouble maintaining consistency at the gym in the past, I would like some way to track my performance of maintaining my goal.
+- Priority: Low
+- Estimated Effort: 1
+
+As a Beginner, I want to be able to find videos about the exercises I'm going to do, so that I can know how to do an exercise correctly.
+- Priority: Medium
+- Estimated Effort: 3
+
+As a newcomer, I want to be able to leave comments on my workouts before and after to track my progress.
+- Priority: Medium
+- Estimated effort: 1
+
+As a personal trainer, I want to manage multiple clients accounts so that I can monitor their progress
+- Priority: Medium
+- Estimated Effort: 8
+
+As a beginner, I want to know if the workouts I'm doing are optimal for my growth (like a score).
+- Priority: Medium
+- Estimated Effort: 13
+
+As a user, I want to be able to share my achievements with friends on the website
+-Priority: Low
+-Estimated effort: 5
+
+As a user, I want to be able to share my achievements with friends on the website
+- Priority: Low
+- Estimated effort: 3
+
+As a user, I want to track my workout progress so that I can see improvements over time.
+- Priority: High
+- Estimated effort: 5
+
+As a beginner, I want to know the best workouts to do for my growth.
+- Priority: High
+- Effort Required:8
+
+As someone who doesn't have time to sit down for a long time to detail my workout, I want to be able to quickly record my workout without having to make many details so that I can be more consistent in my goal progress.
+- Priority: Medium
+- Effort Required: 2
+
+As a person who works out at a gym, I want to be able to use the website on my phone so that I can update my data at the gym.
+- Priority: High
+- Effort Required: 21
+
+As a intermediate gym-goer, I want to be able to request workout recommendations so that I can try out new exercises.
+- Priority: High
+- Estimated effort: 12 Hours
+
+As someone new to working out, I want to be able to track my sets and repition in order to stay consistent in my fitness journey.
+- Priority: High
+- Estimated effort: 8 Hours
+
 ## 8. Issue Tracker
 
 *The user stories should be registered in your GitHub issue tracker. Include here the link for your issue tracker and a screenshot of what you did.*
 
 ***Grading criteria (1 point): Provide the URL and screenshot of the issue tracker. The user stories should be registered there.***
+
+https://github.com/McKayHartman/Fitness-Website/issues
+
+![Screenshot (2)](https://github.com/user-attachments/assets/8d371173-3421-40ec-b315-07f73f41ec20)
