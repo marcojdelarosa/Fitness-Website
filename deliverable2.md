@@ -89,6 +89,8 @@ Workout recommendation system
 
 ***Grading criteria (8 points): Follow the template to describe the use cases. Present an interface sketch for each use case. Describe the use case as a dialog between the user and the system. Do not use UI language in the description of the use case.***
 
+![image](image.png)
+
 ## 7. User Stories
 
 *Write two user stories for each member of the group. They can be related to the same features described in the use cases or to different ones. Adopt the following format: "As a ROLE, I want SOMETHING so that GOAL."*
