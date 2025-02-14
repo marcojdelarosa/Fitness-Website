@@ -89,7 +89,7 @@ Workout recommendation system
 
 ***Grading criteria (8 points): Follow the template to describe the use cases. Present an interface sketch for each use case. Describe the use case as a dialog between the user and the system. Do not use UI language in the description of the use case.***
 
-![image](image.png)
+![Use Case Diagram](image.png)
 
 ## 7. User Stories
 
@@ -98,6 +98,14 @@ Workout recommendation system
 *Establish a priority level for each user story and estimate how many hours each one will demand using the planning poker approach.*
 
 ***Grading criteria (6 points): Use the provided format. The user stories should be in an adequate level of granularity (not too broad nor too specific). Provide the priority and estimation for each user story.***
+
+As a user, I want to track my workout progress so that I can see improvements over time.
+- Priority: High
+- Estimated effort: 10 Hours
+
+As a user, I want to be able to create an account on the website so that I can save personalized information.
+- Priority: High
+- Estimated effort: 8 Hours
 
 ## 8. Issue Tracker
 
