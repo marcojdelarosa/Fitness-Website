@@ -99,13 +99,57 @@ Workout recommendation system
 
 ***Grading criteria (6 points): Use the provided format. The user stories should be in an adequate level of granularity (not too broad nor too specific). Provide the priority and estimation for each user story.***
 
+As a user, I would like the program to connect to send calendar notifications to my email address so I can be notified what my workouts should be for the week.
+- Priority: Low
+- Estimated Effort: 3
+
+As a user, I want to be able to upload workouts directly from my Apple watch so I don't have to manually input everything.
+- Priority: Low
+- Estimated Effort: 21
+
+As someone who has had trouble maintaining consistency at the gym in the past, I would like some way to track my performance of maintaining my goal.
+- Priority: Low
+- Estimated Effort: 1
+
+As a Beginner, I want to be able to find videos about the exercises I'm going to do, so that I can know how to do an exercise correctly.
+- Priority: Medium
+- Estimated Effort: 3
+
+As a newcomer, I want to be able to leave comments on my workouts before and after to track my progress.
+- Priority: Medium
+- Estimated effort: 1
+
+As a personal trainer, I want to manage multiple clients accounts so that I can monitor their progress
+- Priority: Medium
+- Estimated Effort: 8
+
+As a beginner, I want to know if the workouts I'm doing are optimal for my growth (like a score).
+- Priority: Medium
+- Estimated Effort: 13
+
+As a user, I want to be able to share my achievements with friends on the website
+-Priority: Low
+-Estimated effort: 5
+
+As a user, I want to be able to share my achievements with friends on the website
+- Priority: Low
+- Estimated effort: 3
+
 As a user, I want to track my workout progress so that I can see improvements over time.
 - Priority: High
-- Estimated effort: 10 Hours
+- Estimated effort: 5
 
-As a user, I want to be able to create an account on the website so that I can save personalized information.
+As a beginner, I want to know the best workouts to do for my growth.
 - Priority: High
-- Estimated effort: 8 Hours
+- Effort Required:8
+
+As someone who doesn't have time to sit down for a long time to detail my workout, I want to be able to quickly record my workout without having to make many details so that I can be more consistent in my goal progress.
+- Priority: Medium
+- Effort Required: 2
+
+As a person who works out at a gym, I want to be able to use the website on my phone so that I can update my data at the gym.
+- Priority: High
+- Effort Required: 21
 
 As a intermediate gym-goer, I want to be able to request workout recommendations so that I can try out new exercises.
 - Priority: High
