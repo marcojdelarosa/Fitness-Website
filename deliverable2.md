@@ -98,10 +98,10 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 
 ## 5. Minimum Viable Product
 
-Personal user accounts/login
-Calendar system for tracking consistency
-Goal progress tracker
-Workout recommendation system
+- Personal user accounts/login
+- Calendar system for tracking consistency
+- Goal progress tracker
+- Workout recommendation system
 
 
 ## 6. Use Cases
