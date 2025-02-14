@@ -104,3 +104,7 @@ Workout recommendation system
 *The user stories should be registered in your GitHub issue tracker. Include here the link for your issue tracker and a screenshot of what you did.*
 
 ***Grading criteria (1 point): Provide the URL and screenshot of the issue tracker. The user stories should be registered there.***
+
+https://github.com/McKayHartman/Fitness-Website/issues
+
+![Screenshot (2)](https://github.com/user-attachments/assets/8d371173-3421-40ec-b315-07f73f41ec20)
