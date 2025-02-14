@@ -178,14 +178,6 @@ As a person who works out at a gym, I want to be able to use the website on my p
 - Priority: High
 - Effort Required: 21
 
-As a intermediate gym-goer, I want to be able to request workout recommendations so that I can try out new exercises.
-- Priority: High
-- Estimated effort: 12 Hours
-
-As someone new to working out, I want to be able to track my sets and repition in order to stay consistent in my fitness journey.
-- Priority: High
-- Estimated effort: 8 Hours
-
 ## 8. Issue Tracker
 
 *The user stories should be registered in your GitHub issue tracker. Include here the link for your issue tracker and a screenshot of what you did.*
