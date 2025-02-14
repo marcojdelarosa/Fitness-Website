@@ -70,6 +70,19 @@ Our product *[statement of primary differentiation]*
 
 *Make a numbered list of requirements for your software. Just self-explanatory titles are enough at this point. Remember that requirements should deliver the value proposition and they must be consistent with the interviews you performed for the previous deliverable. You can talk again to your clients to help define the requirements. While writing the requirements, focus on the capabilities needed and not on how they should be implemented.*
 
+- Website for desktop and mobile
+- Functional calendar display for planning workouts
+    - Edits and additions can be made
+    - Tracks past workouts
+    - System to track streaks
+- Workout information pool
+    - Recommendation algorithm for workouts
+    - Questionnaire and calendar data collection to personalize workouts
+    - Workout example videos
+- Account system
+    - Ability to create, personalize, and delete account
+    - System to track progress of other users for friends and personal trainers
+
 ***Grading criteria (2 points): The list should be comprehensive (remember that you are not expected to implement all the requirements by the end of the course but you should list them). Follow the same pattern to describe all the requirements. The list of requirements should be coherent with the previous sections.***
 
 ## 4. Non-Functional Requirements
