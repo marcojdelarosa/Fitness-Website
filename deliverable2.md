@@ -6,12 +6,8 @@
 
 *Provide a statement to summarize the problem solved by your project according to the following structure (which is based on the OpenUP Vision Template):*
 
-The problem of
-Irregular or unproductive fitness sessions
-affects
-people who want to reach their fitness goals;
-the impact of which is
-Ineffective workout routines resulting in little to no progress.
+The problem of **irregular or unproductive fitness sessions** affects **people who want to reach their fitness goals;** the impact of which is
+**ineffective workout routines resulting in little to no progress.**
 
 
 *Example of a problem statement: “The problem of inefficient prioritization of homework assignments affects college students; the impact of which is delivering assignments past due and receiving low grades.” The problem should read as a problem (must be something bad that makes people spend time or money in an inefficient way.*
@@ -38,22 +34,26 @@ Is a free website that centralizes and automates all fitness planning functions.
 
 *Report the value propositions and customer segments of your product. Make sure that your value proposition is coherent with the product position statement and contains the following elements:*
 
-i) What our product is: Our product is an easy-to-use fitness planning and tracking website.
-ii) Our target customer: Our target customer are internet users who struggle with creating workout routines and those that find it difficult to reach their fitness goals.
-iii) The value our product provides: We provide a product that is both minimal and efficient so that it provides the easiest user experience, making it less time-consuming to use a workout planner.
-iv) Why the product is unique: The product is unique because it will be less feature-heavy, more user-friendly, and will be without a subscription.
+1. What our product is: Our product is an easy-to-use fitness planning and tracking website.
 
-Consumer segment: Internet users who have busy schedules
+2. Our target customer: Our target customer are internet users who struggle with creating workout routines and those that find it difficult to reach their fitness goals.
+
+3. The value our product provides: We provide a product that is both minimal and efficient so that it provides the easiest user experience, making it less time-consuming to use a workout planner.
+
+4. Why the product is unique: The product is unique because it will be less feature-heavy, more user-friendly, and will be without a subscription.
+
+**Consumer segment: Internet users who have busy schedules.**
 
 ***Grading criteria (3 points, 1 for each section): The content of the subsections should contain all the required elements, follow the provided template, and be consistent with each other. The text should not contain typos or grammar issues.***
 
 ## 2. Stakeholders
-Users who struggle with planning their workouts
--Keeping mental notes of fitness goals does not improve routines
-Users who don’t want to pay for expensive apps
--Most alternatives and competitors have monthly or annual fees that deter users
-Personal trainers
--Personal trainers can use it for each of their clients to keep track of statistics and fitness habits
+
+- Users who struggle with planning their workouts:
+  - Keeping mental notes of fitness goals does not improve routines
+- Users who don’t want to pay for expensive apps:
+  - Most alternatives and competitors have monthly or annual fees that deter users.
+- Personal trainers:
+  - Personal trainers can use it for each of their clients to keep track of statistics and fitness habits.
 
 
 ## 3. Functional Requirements (Features)
@@ -106,7 +106,6 @@ As a user, I want to track my workout progress so that I can see improvements ov
 As a user, I want to be able to create an account on the website so that I can save personalized information.
 - Priority: High
 - Estimated effort: 8 Hours
-
 
 As a intermediate gym-goer, I want to be able to request workout recommendations so that I can try out new exercises.
 - Priority: High
