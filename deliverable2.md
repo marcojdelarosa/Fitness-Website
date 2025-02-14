@@ -144,7 +144,10 @@ As a beginner, I want to know the best workouts to do for my growth.
 - Effort Required:8
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 As someone who doesn't have time to sit down for a long time to detail my workout, I want to be able to quickly record my workout without having to make many details so that I can be more consistent in my goal progress.
 - Priority: Medium
 - Effort Required: 2
