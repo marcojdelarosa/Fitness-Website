@@ -35,26 +35,6 @@ For **internet users** who **struggle with fitness planning, the fitness planner
 
 ## 3. Functional Requirements (Features)
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-*Make a numbered list of requirements for your software. Just self-explanatory titles are enough at this point. Remember that requirements should deliver the value proposition and they must be consistent with the interviews you performed for the previous deliverable. You can talk again to your clients to help define the requirements. While writing the requirements, focus on the capabilities needed and not on how they should be implemented.*
-
-***Grading criteria (2 points): The list should be comprehensive (remember that you are not expected to implement all the requirements by the end of the course but you should list them). Follow the same pattern to describe all the requirements. The list of requirements should be coherent with the previous sections.***
-
-## 4. Non-Functional Requirements
-
-*Make a numbered list of non-functional requirements that are important for your software. Explain their importance. Follow the terminology of ISO/IEC 25010:2011. For each non-functional requirement, give an objective goal/measurement in order to provide verifiability for the requirement. You can find more details at the following URL:
-https://ieeexplore.ieee.org/document/8559686Links to an external site.*
-
-
-***Grading criteria (2 points): Follow the ISO-IEC terminology, explain why they are important, provide verifiability criteria for each requirement.***
-
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 - Website for desktop and mobile
 - Functional calendar display for planning workouts
     - Edits and additions can be made
@@ -82,24 +62,12 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 4. Securability
     - Goal: Each users data can only be accessed by that user.
 
-
->>>>>>> Stashed changes
 ## 5. Minimum Viable Product
-<<<<<<< Updated upstream
-Personal user accounts/login
-Calendar system for tracking consistency
-Goal progress tracker
-Workout recommendation system
-=======
 
 - Personal user accounts/login
 - Calendar system for tracking consistency
 - Goal progress tracker
 - Workout recommendation system
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
 ## 6. Use Cases
 
@@ -107,19 +75,6 @@ Workout recommendation system
 
 ## 7. User Stories
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-*Write two user stories for each member of the group. They can be related to the same features described in the use cases or to different ones. Adopt the following format: "As a ROLE, I want SOMETHING so that GOAL."*
-
-*Establish a priority level for each user story and estimate how many hours each one will demand using the planning poker approach.*
-
-***Grading criteria (6 points): Use the provided format. The user stories should be in an adequate level of granularity (not too broad nor too specific). Provide the priority and estimation for each user story.***
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 As a user, I would like the program to connect to send calendar notifications to my email address so I can be notified what my workouts should be for the week.
 - Priority: Low
 - Estimated Effort: 3
@@ -138,9 +93,9 @@ As a Beginner, I want to be able to find videos about the exercises I'm going to
 
 As a newcomer, I want to be able to leave comments on my workouts before and after to track my progress.
 - Priority: Medium
-- Estimated effort: 1
+- Estimated Effort: 1
 
-As a personal trainer, I want to manage multiple clients accounts so that I can monitor their progress
+As a personal trainer, I want to manage multiple clients accounts so that I can monitor their progress.
 - Priority: Medium
 - Estimated Effort: 8
 
@@ -150,28 +105,23 @@ As a beginner, I want to know if the workouts I'm doing are optimal for my growt
 
 As a user, I want to be able to share my achievements with friends on the website.
 - Priority: Low
-- Estimated effort: 5
-
-As a user, I want to be able to share my achievements with friends on the website
-- Priority: Low
-- Estimated effort: 3
->>>>>>> Stashed changes
+- Estimated Effort: 3
 
 As a user, I want to track my workout progress so that I can see improvements over time.
 - Priority: High
-- Estimated effort: 10 Hours
+- Estimated Effort: 5
 
-As a user, I want to be able to create an account on the website so that I can save personalized information.
+As a beginner, I want to know the best workouts to do for my growth.
 - Priority: High
-- Estimated effort: 8 Hours
+- Estimated Effort: 8
 
-As a intermediate gym-goer, I want to be able to request workout recommendations so that I can try out new exercises.
-- Priority: High
-- Estimated effort: 12 Hours
+As someone who doesn't have time to sit down for a long time to detail my workout, I want to be able to quickly record my workout without having to make many details so that I can be more consistent in my goal progress.
+- Priority: Medium
+- Estimated Effort: 2
 
-As someone new to working out, I want to be able to track my sets and repition in order to stay consistent in my fitness journey.
+As a person who works out at a gym, I want to be able to use the website on my phone so that I can update my data at the gym.
 - Priority: High
-- Estimated effort: 8 Hours
+- Estimated Effort: 21
 
 ## 8. Issue Tracker
 
