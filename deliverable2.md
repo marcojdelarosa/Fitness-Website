@@ -36,6 +36,7 @@ For **internet users** who **struggle with fitness planning, the fitness planner
 ## 3. Functional Requirements (Features)
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 *Make a numbered list of requirements for your software. Just self-explanatory titles are enough at this point. Remember that requirements should deliver the value proposition and they must be consistent with the interviews you performed for the previous deliverable. You can talk again to your clients to help define the requirements. While writing the requirements, focus on the capabilities needed and not on how they should be implemented.*
 
 ***Grading criteria (2 points): The list should be comprehensive (remember that you are not expected to implement all the requirements by the end of the course but you should list them). Follow the same pattern to describe all the requirements. The list of requirements should be coherent with the previous sections.***
@@ -49,6 +50,8 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 ***Grading criteria (2 points): Follow the ISO-IEC terminology, explain why they are important, provide verifiability criteria for each requirement.***
 
 =======
+=======
+>>>>>>> Stashed changes
 - Website for desktop and mobile
 - Functional calendar display for planning workouts
     - Edits and additions can be made
@@ -79,10 +82,18 @@ https://ieeexplore.ieee.org/document/8559686Links to an external site.*
 
 >>>>>>> Stashed changes
 ## 5. Minimum Viable Product
+<<<<<<< Updated upstream
 Personal user accounts/login
 Calendar system for tracking consistency
 Goal progress tracker
 Workout recommendation system
+=======
+
+- Personal user accounts/login
+- Calendar system for tracking consistency
+- Goal progress tracker
+- Workout recommendation system
+>>>>>>> Stashed changes
 
 ## 6. Use Cases
 
@@ -91,12 +102,15 @@ Workout recommendation system
 ## 7. User Stories
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 *Write two user stories for each member of the group. They can be related to the same features described in the use cases or to different ones. Adopt the following format: "As a ROLE, I want SOMETHING so that GOAL."*
 
 *Establish a priority level for each user story and estimate how many hours each one will demand using the planning poker approach.*
 
 ***Grading criteria (6 points): Use the provided format. The user stories should be in an adequate level of granularity (not too broad nor too specific). Provide the priority and estimation for each user story.***
 =======
+=======
+>>>>>>> Stashed changes
 As a user, I would like the program to connect to send calendar notifications to my email address so I can be notified what my workouts should be for the week.
 - Priority: Low
 - Estimated Effort: 3
