@@ -64,10 +64,36 @@ Customer Segment: Fitness newcomers.
 
 ## 5. Minimum Viable Product
 
-- Personal user accounts/login
-- Calendar system for tracking consistency
-- Goal progress tracker
-- Workout recommendation system
+- Personal User Accounts/Login:
+  - Every user will have a unique username and password.
+  - A user can only sign in to their account if they provide the correct password.
+  - Testing and validation:
+    - Several accounts will be created with unique passwords.
+    - Provide the system with many incorrect strings for the password. The system must be confirmed the fail log-in.
+    - Provide the system with the correct string for the password. The system must be confirmed to pass log-in.
+- Calendar System for Tracking Consistency:
+  - Website must contain a live calender representing the current month and year correctly.
+  - Users should be able to view and edit their own personal plan using the calender.
+  - Visual representation for each workout as being in a completed, incompleted, or upcoming state.
+  - Testing and validation:
+    - Calender should provide accurate display of the month when given a specific date as an input.
+    - Verify correct state change for each workout by changing completion statuses and given dates for each goal. This data should be tracked for each user.
+    - Test that a given workout plan input is saved to an account's calender. Verify changes, additions, and deletions are saved for the account.
+- Goal Progress Tracker:
+  - User completion data should be saved over some time interval (daily, weekly, monthly, etc).
+  - Visually express completion data in some segment of the website. Provide the user with their current workout "streak", how often they complete or miss a workout, or some kind of completion data pertaining to consistency.
+  - Testing and validation:
+    - Verify that all completion data for an account from the calender section is accessible and readable.
+    - Test that multiple events (such as a completion or a failure to complete) are saved to a shared pool only under within the specified time window. Verify that the data does not reset before the time window has elapsed.
+- Workout Recommendation System:
+  - Create a system that will recommend a saved workout from a pool of workouts to a user based on their activity.
+  - Users will be able to add a "tag" to their workout to classify it.
+  - Website should be able to produce several recommended workouts from an accessible pool. Recommendations will be based on user completion data and tags in order to assure user-tailored accuracy and customer satisfaction.
+  - Testing and validation:
+    - Confirm that completion data is accessible.
+    - Test that a given workout pool is saved and updated based on changes made.
+    - Verify that the same pool is opened on different log-ins on the same account and on different accounts.
+    - Create user completion data ranging from moderate to extreme conditions. Verify that produced recommendations follow the predefined expectations.
 
 ## 6. Use Cases
 
