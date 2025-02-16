@@ -19,12 +19,19 @@ Customer Segment: Fitness newcomers.
 
 ## 2. Stakeholders
 
-- Users who struggle with planning their workouts:
-  - Keeping mental notes of fitness goals does not improve routines
-- Users who don’t want to pay for expensive apps:
+- User:
+  - Someone who struggles with creating workout routines and plans.
+  - Does not find that keeping mental notes of fitness goals improves routines.
+  - Someone who does not want to pay for expensive apps.
   - Most alternatives and competitors have monthly or annual fees that deter users.
 - Personal trainers:
-  - Personal trainers can use it for each of their clients to keep track of statistics and fitness habits.
+  - Personal trainers can use the website for each of their clients to keep track of statistics and fitness habits.
+- Developer:
+  - Develops, tests, maintains, and reflects on the project at every step of development.
+  - Interacts with users frequently to determine best direction for the product.
+- Competitor:
+  - Provides a reference of a system that is not serving the gym newcomers audience well enough.
+  - Creates an incentive for developing a clean and well-tailored product.
 
 ## 3. Functional Requirements (Features)
 
