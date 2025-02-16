@@ -35,16 +35,16 @@ Customer Segment: Fitness newcomers.
 
 ## 3. Functional Requirements (Features)
 
-- Website for desktop and mobile
-- Functional calendar display for planning workouts
+1. Website for desktop and mobile
+2. Functional calendar display for planning workouts
     - Edits and additions can be made
     - Tracks past workouts
     - System to track streaks
-- Workout information pool
+3. Workout information pool
     - Recommendation algorithm for workouts
     - Questionnaire and calendar data collection to personalize workouts
     - Workout example videos
-- Account system
+4. Account system
     - Ability to create, personalize, and delete account
     - System to track progress of other users for friends and personal trainers
 
