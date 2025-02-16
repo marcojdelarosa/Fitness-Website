@@ -46,15 +46,16 @@ Customer Segment: Fitness newcomers.
     - Workout example videos
 4. Account system
     - Ability to create, personalize, and delete account
+    - Account info should have customizable visibility to other users (Users should decide what information that they want friends to be able to see)
     - System to track progress of other users for friends and personal trainers
 
 ## 4. Non-Functional Requirements
 
 1. Portability
-    - Goal: Website is usable on both desktop AND mobile devices.
+    - Goal: Website is usable on both desktop AND mobile devices and all main features are availible to mobile devices.
 
 2. Usability
-    - Goal: Navigatable without external guidance.
+    - Goal: Navigatable without external guidance. Use should be intuitive and require minimal documentation.
 
 3. Availability
     - Goal: Downtime of servers is kept to a minimum of 1 hour per week. 
