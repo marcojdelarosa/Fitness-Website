@@ -13,15 +13,9 @@ For **internet users** who **struggle with fitness planning, the fitness planner
 
 #### Value Proposition and Customer Segment
 
-1. What our product is: Our product is an easy-to-use fitness planning and tracking website.
+Value Proposition: We help fitness newcomers build confidence and independence by offering an online learning platform that teaches newcomers the best way to begin and supports them into becoming consistent.
 
-2. Our target customer: Our target customer are internet users who struggle with creating workout routines and those that find it difficult to reach their fitness goals.
-
-3. The value our product provides: We provide a product that is both minimal and efficient so that it provides the easiest user experience, making it less time-consuming to use a workout planner.
-
-4. Why the product is unique: The product is unique because it will be less feature-heavy, more user-friendly, and will be without a subscription.
-
-**Consumer segment: Internet users who have busy schedules.**
+Customer Segment: Fitness newcomers.
 
 ## 2. Stakeholders
 
@@ -31,7 +25,6 @@ For **internet users** who **struggle with fitness planning, the fitness planner
   - Most alternatives and competitors have monthly or annual fees that deter users.
 - Personal trainers:
   - Personal trainers can use it for each of their clients to keep track of statistics and fitness habits.
-
 
 ## 3. Functional Requirements (Features)
 
