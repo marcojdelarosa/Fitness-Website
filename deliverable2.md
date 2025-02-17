@@ -179,11 +179,13 @@ Customer Segment: Fitness newcomers.
 - **Description**: The user logs out of their account to end the session.
 - **Flow of Events**:
   1. The user clicks the "Logout" button.
-  2. The system ends the session and redirects the user to the homepage.
+  2. The user confirms the log out in a pop up dialog. 
+  3. The system ends the session and redirects the user to the homepage.
 - **Postcondition**: The user is logged out and cannot access their account without logging in again.
 - **Exceptions**:
   - Logout failure: The system displays an error message if logout fails.
 
+![User Logout Sketch](./Deliverable2Images/UseCase6.png)
 
 ![Use Case Diagram](./Deliverable2Images/image.png)
 
