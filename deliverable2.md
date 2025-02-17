@@ -134,7 +134,7 @@ Customer Segment: Fitness newcomers.
 - **Postcondition**: The workout is successfully added, edited, or deleted from the calendar.
 - **Exceptions**:
   - Invalid data: The system displays an error and prompts for corrections.
-![Use Case 2 Diagram](./Deliverable2Images/UseCase_2.png)
+![Use Case 2 Diagram](./Deliverable2Images/Usecase_2.png)
 
 ### **Use Case 3: Tracking Goal Progress**
 
