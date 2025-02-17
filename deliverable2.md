@@ -119,7 +119,7 @@ Customer Segment: Fitness newcomers.
 - **Exceptions**:
   - Invalid username/password: Display an error message and prompt for re-entry.
 
-![Use Case 2 Diagram](./Deliverable2Images/UseCase1.png)
+![Use Case 1 Diagram](./Deliverable2Images/UseCase1.png)
 
 ### **Use Case 2: Workout Calendar and Planning**
 
