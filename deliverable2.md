@@ -53,18 +53,18 @@ Customer Segment: Fitness newcomers.
 
 1. Portability
 
-   - Goal: Website is usable on both desktop AND mobile devices and all main features are availible to mobile devices.
+   - Goal: Website is usable on both desktop and mobile devices. All of the main features are availible to mobile devices.
 
 2. Usability
 
-   - Goal: Navigatable without external guidance. Use should be intuitive and require minimal documentation.
+   - Goal: 9 out of 10 people should be able to navigate the website without describing any difficulties.
 
 3. Availability
 
    - Goal: Downtime of servers is kept to a minimum of 1 hour per week.
 
 4. Securability
-   - Goal: Each users data can only be accessed by that user.
+   - Goal: An account will only open if provided with the completely correct password.
 
 ## 5. Minimum Viable Product
 
