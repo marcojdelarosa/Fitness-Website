@@ -136,7 +136,8 @@ Customer Segment: Fitness newcomers.
 - **Postcondition**: The workout is successfully added, edited, or deleted from the calendar.
 - **Exceptions**:
   - Invalid data: The system displays an error and prompts for corrections.
-    ![Use Case 2 Diagram](./Deliverable2Images/Usecase_2.png)
+  
+![Use Case 2 Diagram](./Deliverable2Images/Usecase_2.png)
 
 ### **Use Case 3: Tracking Goal Progress**
 
@@ -186,6 +187,7 @@ Customer Segment: Fitness newcomers.
 - **Postcondition**: The user’s privacy settings are updated.
 - **Exceptions**:
   - Invalid data: The system prompts the user to re-enter valid information.
+ 
     ![Use Case Diagram 5](./Deliverable2Images/UseCase5_d2.png)
 
 ### **Use Case 6: User Logout**
@@ -205,27 +207,27 @@ Customer Segment: Fitness newcomers.
 
 ## 7. User Stories
 
-As a user, I would like the program to connect to send calendar notifications to my email address so I can be notified what my workouts should be for the week.
+As a user, I want the program to connect to and send calendar notifications to my email address so that I can be notified what my workouts should be for the week.
 
 - Priority: Low
 - Estimated Effort: 3
 
-As a user, I want to be able to upload workouts directly from my Apple watch so I don't have to manually input everything.
+As a user, I want to be able to upload workouts directly from my Apple watch so that I don't have to manually input everything.
 
 - Priority: Low
 - Estimated Effort: 21
 
-As someone who has had trouble maintaining consistency at the gym in the past, I would like some way to track my performance of maintaining my goal.
+As a person who has had trouble maintaining consistency at the gym in the past, I want a way to track my performance so that I can maintain my goal.
 
 - Priority: Low
 - Estimated Effort: 1
 
-As a Beginner, I want to be able to find videos about the exercises I'm going to do, so that I can know how to do an exercise correctly.
+As a beginner, I want to be able to find videos about the exercises I'm going to do, so that I can know how to do an exercise correctly.
 
 - Priority: Medium
 - Estimated Effort: 3
 
-As a newcomer, I want to be able to leave comments on my workouts before and after to track my progress.
+As a newcomer, I want to be able to leave comments on my workouts before and after so that I can track my progress throughout my journey.
 
 - Priority: Medium
 - Estimated Effort: 1
@@ -235,12 +237,12 @@ As a personal trainer, I want to manage multiple clients accounts so that I can 
 - Priority: Medium
 - Estimated Effort: 8
 
-As a beginner, I want to know if the workouts I'm doing are optimal for my growth (like a score).
+As a beginner, I want to know if the workouts I'm doing are optimal for my growth (like a score) so that I can make sure I am not wasting time in my workouts.
 
 - Priority: Medium
 - Estimated Effort: 13
 
-As a user, I want to be able to share my achievements with friends on the website.
+As a user, I want to be able to share my achievements with friends on the website so that we can stay motivated as a community.
 
 - Priority: Low
 - Estimated Effort: 3
@@ -250,12 +252,12 @@ As a user, I want to track my workout progress so that I can see improvements ov
 - Priority: High
 - Estimated Effort: 5
 
-As a beginner, I want to know the best workouts to do for my growth.
+As a beginner, I want to know the best workouts to do for my growth so that I can be consistent.
 
 - Priority: High
 - Estimated Effort: 8
 
-As someone who doesn't have time to sit down for a long time to detail my workout, I want to be able to quickly record my workout without having to make many details so that I can be more consistent in my goal progress.
+As a person who doesn't have time to sit down for a long time to detail my workout, I want to be able to quickly record my workout without having to make many details so that I can be more consistent in my goal progress.
 
 - Priority: Medium
 - Estimated Effort: 2
