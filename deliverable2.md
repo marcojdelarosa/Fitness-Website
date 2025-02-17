@@ -171,7 +171,7 @@ Customer Segment: Fitness newcomers.
 - **Postcondition**: The user’s privacy settings are updated.
 - **Exceptions**:
   - Invalid data: The system prompts the user to re-enter valid information.
-![Use Case 5 Diagram](.Deliverable2Images/UseCase5_d2.png)
+![Use Case 5 Diagram](./Deliverable2Images/UseCase5_d2.png)
 
 ### **Use Case 6: User Logout**
 - **Actor**: User
