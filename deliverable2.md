@@ -149,6 +149,8 @@ Customer Segment: Fitness newcomers.
 - **Postcondition**: The user’s goal progress is updated and displayed.
 - **Exceptions**:
   - No data available: Display a message prompting the user to log their workout progress.
+ 
+  ![Use Case Diagram 3](https://github.com/McKayHartman/Fitness-Website/blob/main/Deliverable2Images/Use%20Case%20UI%203.png) 
 
 ### **Use Case 4: Workout Recommendation System**
 
@@ -165,7 +167,7 @@ Customer Segment: Fitness newcomers.
 - **Exceptions**:
   - No workout history: The system suggests basic workouts for beginners.
 
-![Use Case Diagram](./Deliverable2Images/UseCase4.png)
+![Use Case Diagram 4](./Deliverable2Images/UseCase4.png)
 
 ### **Use Case 5: User Profile and Privacy Settings**
 
@@ -180,7 +182,7 @@ Customer Segment: Fitness newcomers.
 - **Postcondition**: The user’s privacy settings are updated.
 - **Exceptions**:
   - Invalid data: The system prompts the user to re-enter valid information.
-    ![Use Case 5 Diagram](.Deliverable2Images/UseCase5_d2.png)
+    ![Use Case Diagram 5](.Deliverable2Images/UseCase5_d2.png)
 
 ### **Use Case 6: User Logout**
 
@@ -195,8 +197,7 @@ Customer Segment: Fitness newcomers.
 - **Exceptions**:
   - Logout failure: The system displays an error message if logout fails.
 
-
-![User Logout Sketch](./Deliverable2Images/UseCase6.png)
+![User Case Diagram 6](./Deliverable2Images/UseCase6.png)
 
 
 ## 7. User Stories
