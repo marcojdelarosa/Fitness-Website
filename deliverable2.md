@@ -119,6 +119,8 @@ Customer Segment: Fitness newcomers.
 - **Exceptions**:
   - Invalid username/password: Display an error message and prompt for re-entry.
 
+![Use Case 2 Diagram](./Deliverable2Images/UseCase1.png)
+
 ### **Use Case 2: Workout Calendar and Planning**
 
 - **Actor**: User
@@ -134,7 +136,7 @@ Customer Segment: Fitness newcomers.
 - **Postcondition**: The workout is successfully added, edited, or deleted from the calendar.
 - **Exceptions**:
   - Invalid data: The system displays an error and prompts for corrections.
-![Use Case 2 Diagram](./Deliverable2Images/Usecase_2.png)
+    ![Use Case 2 Diagram](./Deliverable2Images/Usecase_2.png)
 
 ### **Use Case 3: Tracking Goal Progress**
 
@@ -149,9 +151,10 @@ Customer Segment: Fitness newcomers.
   5. The system updates the progress data as workouts are completed.
 - **Postcondition**: The user’s goal progress is updated and displayed.
 - **Exceptions**:
+
   - No data available: Display a message prompting the user to log their workout progress.
- 
-  ![Use Case Diagram 3](https://github.com/McKayHartman/Fitness-Website/blob/main/Deliverable2Images/Use%20Case%20UI%203.png) 
+
+  ![Use Case Diagram 3](https://github.com/McKayHartman/Fitness-Website/blob/main/Deliverable2Images/Use%20Case%20UI%203.png)
 
 ### **Use Case 4: Workout Recommendation System**
 
@@ -192,14 +195,13 @@ Customer Segment: Fitness newcomers.
 - **Description**: The user logs out of their account to end the session.
 - **Flow of Events**:
   1. The user clicks the "Logout" button.
-  2. The user confirms the log out in a pop up dialog. 
+  2. The user confirms the log out in a pop up dialog.
   3. The system ends the session and redirects the user to the homepage.
 - **Postcondition**: The user is logged out and cannot access their account without logging in again.
 - **Exceptions**:
   - Logout failure: The system displays an error message if logout fails.
 
 ![User Case Diagram 6](./Deliverable2Images/UseCase6.png)
-
 
 ## 7. User Stories
 
