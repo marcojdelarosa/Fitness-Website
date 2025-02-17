@@ -101,6 +101,89 @@ Customer Segment: Fitness newcomers.
 
 ## 6. Use Cases
 
+### **Use Case 1: User Registration and Login**
+- **Actor**: User
+- **Precondition**: User is not registered on the platform.
+- **Description**: The user creates a personal account by providing a unique username and password. After registration, the user logs in by entering their credentials.
+- **Flow of Events**:
+  1. The user navigates to the registration page.
+  2. The user enters personal details (username, password, email) and clicks "Submit."
+  3. The system validates the information and creates an account.
+  4. The user is redirected to the login page.
+  5. The user logs in using the username and password.
+  6. The system verifies the credentials and grants access.
+- **Postcondition**: The user is successfully logged into their account.
+- **Exceptions**:
+  - Invalid username/password: Display an error message and prompt for re-entry.
+
+### **Use Case 2: Workout Calendar and Planning**
+- **Actor**: User
+- **Precondition**: The user is logged into their account.
+- **Description**: The user can view, edit, and plan workouts on a calendar.
+- **Flow of Events**:
+  1. The user accesses the calendar page.
+  2. The system displays a calendar showing the current month and year.
+  3. The user selects a day to add a workout.
+  4. The user enters workout details and saves it.
+  5. The system updates the calendar to reflect the new workout.
+  6. The user can edit or delete workouts as needed.
+- **Postcondition**: The workout is successfully added, edited, or deleted from the calendar.
+- **Exceptions**:
+  - Invalid data: The system displays an error and prompts for corrections.
+
+### **Use Case 3: Tracking Goal Progress**
+- **Actor**: User
+- **Precondition**: The user is logged into their account and has entered workout goals.
+- **Description**: The user can track their progress toward fitness goals.
+- **Flow of Events**:
+  1. The user navigates to the progress tracking page.
+  2. The system displays the user's current goal progress, including completion rates.
+  3. The user can view detailed progress data over a specific time interval.
+  4. The user can see visual representations such as streaks or performance graphs.
+  5. The system updates the progress data as workouts are completed.
+- **Postcondition**: The user’s goal progress is updated and displayed.
+- **Exceptions**:
+  - No data available: Display a message prompting the user to log their workout progress.
+
+### **Use Case 4: Workout Recommendation System**
+- **Actor**: User
+- **Precondition**: The user is logged in and has a workout history.
+- **Description**: The system recommends workouts to the user based on their activity and progress.
+- **Flow of Events**:
+  1. The user accesses the workout recommendation page.
+  2. The system analyzes the user’s workout history and progress.
+  3. The system generates a list of recommended workouts.
+  4. The user selects a recommended workout.
+  5. The system provides details and instructions for the workout.
+- **Postcondition**: The user is presented with a recommended workout.
+- **Exceptions**:
+  - No workout history: The system suggests basic workouts for beginners.
+
+### **Use Case 5: User Profile and Privacy Settings**
+- **Actor**: User
+- **Precondition**: The user is logged in and has an existing profile.
+- **Description**: The user can view and adjust the visibility of their profile and fitness data.
+- **Flow of Events**:
+  1. The user accesses the profile settings page.
+  2. The system displays the user’s personal information and fitness data.
+  3. The user can adjust privacy settings to control who can view their profile and data.
+  4. The user saves any changes to their privacy settings.
+- **Postcondition**: The user’s privacy settings are updated.
+- **Exceptions**:
+  - Invalid data: The system prompts the user to re-enter valid information.
+
+### **Use Case 6: User Logout**
+- **Actor**: User
+- **Precondition**: The user is logged in.
+- **Description**: The user logs out of their account to end the session.
+- **Flow of Events**:
+  1. The user clicks the "Logout" button.
+  2. The system ends the session and redirects the user to the homepage.
+- **Postcondition**: The user is logged out and cannot access their account without logging in again.
+- **Exceptions**:
+  - Logout failure: The system displays an error message if logout fails.
+
+
 ![Use Case Diagram](./Deliverable2Images/image.png)
 
 ## 7. User Stories
