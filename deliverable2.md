@@ -101,7 +101,10 @@ Customer Segment: Fitness newcomers.
 
 ## 6. Use Cases
 
+![Use Case Diagram](./Deliverable2Images/UML.png)
+
 ### **Use Case 1: User Registration and Login**
+
 - **Actor**: User
 - **Precondition**: User is not registered on the platform.
 - **Description**: The user creates a personal account by providing a unique username and password. After registration, the user logs in by entering their credentials.
@@ -117,6 +120,7 @@ Customer Segment: Fitness newcomers.
   - Invalid username/password: Display an error message and prompt for re-entry.
 
 ### **Use Case 2: Workout Calendar and Planning**
+
 - **Actor**: User
 - **Precondition**: The user is logged into their account.
 - **Description**: The user can view, edit, and plan workouts on a calendar.
@@ -132,6 +136,7 @@ Customer Segment: Fitness newcomers.
   - Invalid data: The system displays an error and prompts for corrections.
 
 ### **Use Case 3: Tracking Goal Progress**
+
 - **Actor**: User
 - **Precondition**: The user is logged into their account and has entered workout goals.
 - **Description**: The user can track their progress toward fitness goals.
@@ -146,6 +151,7 @@ Customer Segment: Fitness newcomers.
   - No data available: Display a message prompting the user to log their workout progress.
 
 ### **Use Case 4: Workout Recommendation System**
+
 - **Actor**: User
 - **Precondition**: The user is logged in and has a workout history.
 - **Description**: The system recommends workouts to the user based on their activity and progress.
@@ -159,7 +165,10 @@ Customer Segment: Fitness newcomers.
 - **Exceptions**:
   - No workout history: The system suggests basic workouts for beginners.
 
+![Use Case Diagram](./Deliverable2Images/UseCase4.png)
+
 ### **Use Case 5: User Profile and Privacy Settings**
+
 - **Actor**: User
 - **Precondition**: The user is logged in and has an existing profile.
 - **Description**: The user can view and adjust the visibility of their profile and fitness data.
@@ -171,9 +180,10 @@ Customer Segment: Fitness newcomers.
 - **Postcondition**: The user’s privacy settings are updated.
 - **Exceptions**:
   - Invalid data: The system prompts the user to re-enter valid information.
-![Use Case 5 Diagram](.Deliverable2Images/UseCase5_d2.png)
+    ![Use Case 5 Diagram](.Deliverable2Images/UseCase5_d2.png)
 
 ### **Use Case 6: User Logout**
+
 - **Actor**: User
 - **Precondition**: The user is logged in.
 - **Description**: The user logs out of their account to end the session.
@@ -185,9 +195,9 @@ Customer Segment: Fitness newcomers.
 - **Exceptions**:
   - Logout failure: The system displays an error message if logout fails.
 
+
 ![User Logout Sketch](./Deliverable2Images/UseCase6.png)
 
-![Use Case Diagram](./Deliverable2Images/image.png)
 
 ## 7. User Stories
 
