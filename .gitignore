@@ -1,0 +1,5 @@
+*.sqlite3
+*.db
+node_modules
+pnpm-lock.yaml
+.obsidian
