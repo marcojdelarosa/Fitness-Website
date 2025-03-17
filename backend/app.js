@@ -11,19 +11,23 @@ import { eq } from 'drizzle-orm';
 const app = express();
 const PORT = 3000;
 
+// use bodyParser for capability to parse the bodies of REST requests
 app.use(bodyParser.urlencoded({ extended: false }))
-
 app.use(bodyParser.json())
 
-
+// use cors to allow access from frontend
 app.use(cors({
     origin: ['http://localhost:3000', 'http://localhost:5173']
 }));
-  
+
+// test endpoint that returns all users
 app.get("/something", async (req, res) => {
     res.json(await db.select().from(usersTable));
 });
 
+// test endpoint that returns a user given a username and password.
+// we should probably move this to auth later and use express-session for
+// returning info if a user is already logged in.
 app.post("/login", async (req, res) => {
     console.log(req.body);
     const body = req.body;
@@ -34,10 +38,10 @@ app.post("/login", async (req, res) => {
         .where(eq(usersTable.email, email));
     console.log(user);
     console.log(password, user.passwordHash)
-    res.json({truth: await sameHash(password, user.passwordHash)});
+    res.json({loggedIn: await sameHash(password, user.passwordHash)});
 });
   
-  
+// run the app on the port
 app.listen(PORT, () => {
     console.log(`Ready at https://localhost:${PORT}!`);
     fetch("http://localhost:3000/something").then((value) => value.json().then(thing => console.log(thing)));
