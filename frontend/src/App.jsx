@@ -2,6 +2,14 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+fetch("http://localhost:3000/login", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ email: "yes", password: "MM"}),
+    }).then((value) => value.json().then(thing => console.log(thing)));
+
 
 function App() {
   const [count, setCount] = useState(0)
