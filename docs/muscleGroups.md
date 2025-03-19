@@ -40,6 +40,7 @@ These are the list of muscles that will be tracked. In bold are the the actual g
 
 # Core
 - **Abs**
+- **Obliques**
 
 # Legs
 - **Glutes**
