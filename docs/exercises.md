@@ -7,3 +7,7 @@ The MVIC isn't totally necessary, but it's nice to have.
 | ---------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Push-up          | Resistance | N/A       | **Pectoral** 60%, **Triceps** 45%, **Deltoid** 45%, **M/L Trap** 25%, **Upper Trap** 15%, [src](https://pmc.ncbi.nlm.nih.gov/articles/PMC9121296/#table1-17585732211019373) |
 | Bodyweight Squat | Resistance | N/A       | **Quads**, **Hamstrings** **Low Back**, **Glutes**, **Calves**, **Abs**                                                                                                     |
+| Sit-up           | Resistance | N/A       | **Abs**, **Obliques**    |
+| Dumbell Curl     | Resistance | **Dumbell** | **Bicep**  |
+| Cable Curl       | Resistance | **Cable Machine** | **Bicep** |
+
