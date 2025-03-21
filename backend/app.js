@@ -8,17 +8,7 @@ import { sameHash } from './auth.js';
 import bodyParser from 'body-parser';
 import { eq } from 'drizzle-orm';
 
-const app = express();
 const PORT = 3000;
-
-// use bodyParser for capability to parse the bodies of REST requests
-app.use(bodyParser.urlencoded({ extended: false }))
-app.use(bodyParser.json())
-
-// use cors to allow access from frontend
-app.use(cors({
-    origin: ['http://localhost:3000', 'http://localhost:5173']
-}));
 
 // test endpoint that returns all users
 app.get("/something", async (req, res) => {
