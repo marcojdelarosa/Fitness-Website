@@ -1,4 +1,5 @@
 import dots from "./assets/SidebarDots.svg";
+import "./header.css";
 
 function HeaderWords() {
   return (
@@ -21,4 +22,5 @@ function Header() {
     </div>
   );
 }
+
 export default Header;
