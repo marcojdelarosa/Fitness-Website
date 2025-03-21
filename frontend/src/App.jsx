@@ -1,5 +1,6 @@
 import "./App.css";
 import Header from "./Header.jsx";
+import Login from "./login.jsx";
 
 fetch("http://localhost:3000/login", {
   method: "POST",
@@ -13,6 +14,7 @@ function App() {
   return (
     <>
       <Header />
+      <Login />
     </>
   );
 }
