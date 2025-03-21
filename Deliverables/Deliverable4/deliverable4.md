@@ -107,9 +107,7 @@ _Grading criteria (3 points):_ This section will be graded based on the adequat
 
 # Licensing
 
-Inform the license you adopted for your source code (remember to configure GitHub accordingly). Explain why you adopted this license. For more information, check https://choosealicense.com/.
-
-_Grading criteria (1 point):_ This section will be evaluated in terms of correctness, completeness, thoroughness, consistency, coherence, and adequate use of language.
+We adopted a MIT License as we just wanted to have a simple license. The MIT License only involces conditions requiring preservation of copyright and license notices whereas licensed works, larger works, or modification can be distrubted under different terms without source code.
 
 # Readme File
 
