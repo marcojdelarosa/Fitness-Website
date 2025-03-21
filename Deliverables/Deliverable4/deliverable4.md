@@ -8,6 +8,49 @@ _Grading criteria (1 point):_ This section will be evaluated in terms of correc
 
 # Requirements
 
+Requirement:  
+Issue: <link to your GitHub issue>  
+Pull request:  
+Implemented by: Bryce Panza
+Approved by: Lacy Hamilton
+Print screen: A print screen that depicts the implemented feature (if applicable)
+
+Requirement:  
+Issue: <link to your GitHub issue>  
+Pull request:   
+Implemented by: Christian Lamb
+Approved by: Lacy Hamilton
+Print screen: A print screen that depicts the implemented feature (if applicable)
+
+Requirement:  
+Issue: <link to your GitHub issue>  
+Pull request: 
+Implemented by: Lacy Hamilton  
+Approved by: @anyone
+Print screen: A print screen that depicts the implemented feature (if applicable)
+
+Requirement: 
+Issue: <link to your GitHub issue>  
+Pull request:  
+Implemented by: Logan Hunt
+Approved by: Lacy Hamilton
+Print screen: A print screen that depicts the implemented feature (if applicable)
+
+Requirement: 
+Issue: <link to your GitHub issue>  
+Pull request:  
+Implemented by: Marco de la Rosa  
+Approved by: Lacy Hamilton
+Print screen: A print screen that depicts the implemented feature (if applicable)
+
+Requirement:  
+Issue: <link to your GitHub issue>  
+Pull request: 
+Implemented by: McKay Hartman
+Approved by: Lacy Hamilton  
+Print screen: A print screen that depicts the implemented feature (if applicable)
+
+
 List in this section, the requirements and associated pull request that you implemented for this release, following the example below---include the description of the requirement, a link to the issue, a link to the pull request(s) that implement the requirement, who implemented the requirement, who approved it, and a print screen that depicts the implemented feature (if applicable). I expect that you implement the features you specified in your MVP (c.f. D.2 Requirements). 
 
 Order the requirements below by the name of the student who implemented them. All the members of the group should have worked on implementation activities and submitted pull requests. Only stable code should be included in the release. The code that is still under development should be in branches.
@@ -40,6 +83,13 @@ _Grading criteria (3 points):_ You should have an adequate number of automated 
 
 List the adopted technologies with a brief description and justification for choosing them.
 
+React - We are using React to write out JavaScript and HTML.
+SQLite -
+PMPN -
+Node.js - 
+Figma - We used Figma to finalize the website design for our UX Design.
+Azure - We are using Microsoft Azure to host our website.
+
 Grading criteria (1 point): This section will be evaluated in terms of correctness, completeness, thoroughness, consistency, coherence, and adequate use of language.
 
 # Deployment
@@ -62,6 +112,10 @@ Inform the license you adopted for your source code (remember to configure GitHu
 _Grading criteria (1 point):_ This section will be evaluated in terms of correctness, completeness, thoroughness, consistency, coherence, and adequate use of language.
 
 # Readme File
+
+CONTRIBUTING.md:
+LICENSE:
+CODE_OF_CONDUCT:
 
 You should also prepare your repository for receiving new contributors. You should prepare a Readme.md file. See an example at https://gist.github.com/PurpleBooth/109311bb0361f32d87a2   In the Readme file, the current version should be stated. You should follow the Semantic Versioning schema (https://semver.org/). Tag the GitHub repository accordingly (https://git-scm.com/book/en/v2/Git-Basics-Tagging). 
 
