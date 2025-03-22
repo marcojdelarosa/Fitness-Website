@@ -12,6 +12,7 @@
 
   --main-color: #c28aff;
   --secondary-color: #ffffff;
+  --tertiary-color: #8797FA;
   --background-color: #414154;
   --header-height: 80px;
   background-color: var(--background-color);

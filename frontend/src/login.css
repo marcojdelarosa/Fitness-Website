@@ -4,7 +4,57 @@
 	height: 50vh;
 	color: var(--p);
 	border-radius: 5%;
-	margin-top: 10%;
+	margin-top: 7.5%;
 	padding: 10%;
 	background-color: var(--main-color);
+}
+
+input{
+	width: 100%;
+	margin-bottom: 1.25rem;
+	/* height: 50px; */
+	border-radius: 0.3125rem;
+	border: 0.125rem solid var(--p);
+	padding: 1rem;
+	font-size: 1rem;
+	margin-bottom: 1.25rem;
+
+}
+
+input[class="input-form"]:focus {
+	border: 3px solid #555;
+	outline: none;
+}
+
+button{
+	width: 110%;
+	height: 50px;
+	border-radius: 0.3125rem;
+	color: var(--main-color);
+	font-size: 1.25rem;
+	border: none;
+	cursor: pointer;
+	align-items: center;
+	margin: .75rem 0;
+}
+
+button:hover{
+	background-color: var(--secondary-color);
+	color: var(--main-color);
+}
+
+label{
+	color: var(--p);
+	font-size: 1.25rem;
+}
+
+.login-button{
+	background-color: var(--tertiary-color);
+	color: var(--secondary-color)
+}
+
+h1{
+	text-align: center;
+	width: 100%;
+	font-size: 300%
 }
