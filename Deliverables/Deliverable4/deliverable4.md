@@ -75,14 +75,18 @@ _Grading criteria (8 points):_ This section will be evaluated in terms of corre
 
 # Tests
 
-- You should implement automated tests that aim to verify the correct behavior of your code. Provide the following information:
-- Test framework you used to develop your tests (e.g., JUnit, unittest, pytest, etc.)
-- Link to your GitHub folder where your automated unit tests are located.
-- An example of a test case. Include in your answer a GitHub link to the class being tested and to the test.
-- A print screen showing the result of the execution of the automated tests. 
+We used the Vitest framework for testing the project. For HTTP testing, we also used the Supertest library in order to simulate HTTP requests. The unit tests are stored in the [backend/test](https://github.com/McKayHartman/Fitness-Website/tree/main/backend/test)  folder. 
 
-_Grading criteria (3 points):_ You should have an adequate number of automated tests. They should be well-written to exercise the main components of your system, covering the relevant inputs.
+A simple example of a unit test case is such: the "[sameHash](https://github.com/McKayHartman/Fitness-Website/blob/main/backend/test/auth.test.js)" test tests if a hash comparison function works correctly by hashing a string and immediately comparing it with itself using the function.
 
+```
+test('sameHash', async () => {
+    expect(await sameHash('x', await hash('x'))).toBe(true);
+})
+```
+
+Here are the results of the tests being run.
+![Successful test cases](./images/test-cases.jpg)
 # Technology
 
 List the adopted technologies with a brief description and justification for choosing them.
@@ -90,8 +94,8 @@ List the adopted technologies with a brief description and justification for cho
 The list of adopted technologies our project utilizes is the following:
 
 - React: We are using React to write out JavaScript and HTML in order to make working on the frontend more object oriented as we are able to make components. <br>
-- Vite: We are using Vite as our development server in order to preview our React UI.
-- SQLite: <br>
+- Vite: We are using Vite as our development server in order to preview our React UI, and bundle the pages for production.
+- SQLite: We are using SQLite for our database, as it is simple to deploy and works well for a smaller project such as this.<br>
 - pnpm: We are using pnpm as our package manager to better manage our disk space during project development. <br>
 - Node.js: We are using Node.js to be our JavaScript runtime enviorment as we have previous experience using. <br>
 - Figma: We used Figma to finalize the website design for our UX Design as we wanted to be able to make a mockup of what we wanted our site to look like. <br>
