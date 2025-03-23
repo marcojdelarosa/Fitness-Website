@@ -47,12 +47,12 @@ Implemented by: Marco de la Rosa <br>
 Approved by: Lacy Hamilton <br>
 Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
-Requirement: As a frequent web user I would like to be able to log in to my account to access my personal settings and data. <br>
-Issue:[Link] (https://github.com/McKayHartman/Fitness-Website/issues/70) <br>
-Pull request: [Link](https://github.com/McKayHartman/Fitness-Website/pull/74)<br>
+Requirement: <br>
+Issue: <link to your GitHub issue> <br>
+Pull request: <br>
 Implemented by: McKay Hartman <br>
 Approved by: Lacy Hamilton <br> 
-Print screen: ![Log In Page](https://github.com/McKayHartman/Fitness-Website/tree/main/Deliverables/Deliverable4/Images/Login.png) <br>
+Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
 
 List in this section, the requirements and associated pull request that you implemented for this release, following the example below---include the description of the requirement, a link to the issue, a link to the pull request(s) that implement the requirement, who implemented the requirement, who approved it, and a print screen that depicts the implemented feature (if applicable). I expect that you implement the features you specified in your MVP (c.f. D.2 Requirements). 
@@ -132,6 +132,11 @@ _Grading criteria (3 points):_ This section will be based on the presence and q
 
 Describe the approach you adopted to design your user interface. Include some screenshots.
 
+For our user interface, we planned out basic design using tools like Figma. The UX should be intuitive and simplistic to streamline the process of creating accounts and accessing features.
+
+![loginUX](/Images/loginUX.png)
+![registerUX](/Images/registerUX.png)
+![headerUX](/Images/headerUX.png)
 _Grading criteria (3 points):_ This section will be graded based on the appearance (aesthetics) and usability (ease of use) of the system.
 
 # Lessons Learned
