@@ -52,7 +52,7 @@ Issue:[Link] (https://github.com/McKayHartman/Fitness-Website/issues/70) <br>
 Pull request: [Link](https://github.com/McKayHartman/Fitness-Website/pull/74)<br>
 Implemented by: McKay Hartman <br>
 Approved by: Lacy Hamilton <br> 
-Print screen: ![Log In Page](https://github.com/McKayHartman/Fitness-Website/tree/main/Deliverables/Deliverable4/Images/Login.png) <br>
+Print screen: [Log In Page](https://github.com/McKayHartman/Fitness-Website/tree/main/Deliverables/Deliverable4/Images/Login.png) <br>
 
 
 List in this section, the requirements and associated pull request that you implemented for this release, following the example below---include the description of the requirement, a link to the issue, a link to the pull request(s) that implement the requirement, who implemented the requirement, who approved it, and a print screen that depicts the implemented feature (if applicable). I expect that you implement the features you specified in your MVP (c.f. D.2 Requirements). 
@@ -133,17 +133,19 @@ Your repository should contain a CONTRIBUTING.md file, a LICENSE file, and a COD
 _Grading criteria (3 points):_ This section will be based on the presence and quality of the information presented in the files.
 
 # UX Design
-For our user interface, we planned out basic design using tools like Figma. The UX should be intuitive and simplistic to streamline the process of creating accounts and accessing features.
+For our user interface, we planned out basic design using tools like Figma. The UX should be intuitive and simplistic to streamline the process of creating accounts and accessing features. Much of the design is tied to inherited variables so that we can change things like colors globally if we choose to do so.
 
-![loginUX](/Images/loginUX.png)
-![registerUX](/Images/registerUX.png)
-![headerUX](/Images/headerUX.png)
+[loginUX](/Images/loginUX.png)
+[registerUX](/Images/registerUX.png)
+[headerUX](/Images/headerUX.png)
 
 # Lessons Learned
 
-In retrospective, describe what your team learned during this first release and what you are planning to change for the second release. 
+In retrospect, the team has significantly improved their skills, especially in using React JS and GitHub. We started out disorganized, not utilizing features that would streamline the process.
 
-_Grading criteria (2 points):_ Adequate reflection about problems and solutions, clear description with adequate use of language. 
+We added protections to the main branch, so that pull requests would have to be reviewed before merging. This caused us to look at each others code more than we were and catch mistakes.
+
+The team has also improved their workflow by better assigning tasks appropriate to each memeber's specific skill set. Specialization helps the team more quickly move through the development process because issues are delegated to people who know how to handle them.
 
 # Demo
 
