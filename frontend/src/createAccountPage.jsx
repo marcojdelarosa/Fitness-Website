@@ -3,11 +3,10 @@ import Header from "./Header";
 export default function CreateAccountPage() {
     return (
         <div className="container">
-			<Header />
+            <Header />
             <TextField />
-            <TextField id="right"/>
+            <TextField id="right" />
         </div>
-        
     );
 }
 
@@ -39,5 +38,5 @@ function SubmitButton() {
         <div>
             <button className="submitButton">Submit</button>
         </div>
-    )
+    );
 }
