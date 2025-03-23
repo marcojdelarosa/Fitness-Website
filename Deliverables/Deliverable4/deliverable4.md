@@ -8,47 +8,51 @@ _Grading criteria (1 point):_ This section will be evaluated in terms of correc
 
 # Requirements
 
-Requirement:  
-Issue: <link to your GitHub issue>  
-Pull request:  
-Implemented by: Bryce Panza
-Approved by: Lacy Hamilton
-Print screen: A print screen that depicts the implemented feature (if applicable)
+Requirement: <br>
+Issue: <link to your GitHub issue> <br>
+Pull request: <br>
+Implemented by: Bryce Panza <br>
+Approved by: Lacy Hamilton <br>
+Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
-Requirement:  
-Issue: <link to your GitHub issue>  
-Pull request:   
-Implemented by: Christian Lamb
-Approved by: Lacy Hamilton
-Print screen: A print screen that depicts the implemented feature (if applicable)
 
-Requirement:  
-Issue: <link to your GitHub issue>  
-Pull request: 
-Implemented by: Lacy Hamilton  
-Approved by: @anyone
-Print screen: A print screen that depicts the implemented feature (if applicable)
+Requirement: <br>
+Issue: <link to your GitHub issue> <br>
+Pull request: <br>
+Implemented by: Christian Lamb <br>
+Approved by: Lacy Hamilton <br>
+Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
-Requirement: 
-Issue: <link to your GitHub issue>  
-Pull request:  
-Implemented by: Logan Hunt
-Approved by: Lacy Hamilton
-Print screen: A print screen that depicts the implemented feature (if applicable)
 
-Requirement: 
-Issue: <link to your GitHub issue>  
-Pull request:  
-Implemented by: Marco de la Rosa  
-Approved by: Lacy Hamilton
-Print screen: A print screen that depicts the implemented feature (if applicable)
+Requirement: As a web user, I would like to be able to be directed to the homepage. <br>
+Issue: [Link](https://github.com/McKayHartman/Fitness-Website/issues/71) <br>
+Pull request: [Link](https://github.com/McKayHartman/Fitness-Website/pull/72) <br>
+Implemented by: Lacy Hamilton <br>
+Approved by: McKay Hartman <br>
+Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
-Requirement:  
-Issue: <link to your GitHub issue>  
-Pull request: 
-Implemented by: McKay Hartman
-Approved by: Lacy Hamilton  
-Print screen: A print screen that depicts the implemented feature (if applicable)
+
+Requirement: <br>
+Issue: <link to your GitHub issue> <br>
+Pull request: <br>
+Implemented by: Logan Hunt <br>
+Approved by: Lacy Hamilton <br>
+Print screen: A print screen that depicts the implemented feature (if applicable) <br>
+
+
+Requirement: <br>
+Issue: <link to your GitHub issue> <br>
+Pull request: <br>
+Implemented by: Marco de la Rosa <br>
+Approved by: Lacy Hamilton <br>
+Print screen: A print screen that depicts the implemented feature (if applicable) <br>
+
+Requirement: <br>
+Issue: <link to your GitHub issue> <br>
+Pull request: <br>
+Implemented by: McKay Hartman <br>
+Approved by: Lacy Hamilton <br> 
+Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
 
 List in this section, the requirements and associated pull request that you implemented for this release, following the example below---include the description of the requirement, a link to the issue, a link to the pull request(s) that implement the requirement, who implemented the requirement, who approved it, and a print screen that depicts the implemented feature (if applicable). I expect that you implement the features you specified in your MVP (c.f. D.2 Requirements). 
@@ -83,12 +87,15 @@ _Grading criteria (3 points):_ You should have an adequate number of automated 
 
 List the adopted technologies with a brief description and justification for choosing them.
 
-React - We are using React to write out JavaScript and HTML.
-SQLite -
-PMPN -
-Node.js - 
-Figma - We used Figma to finalize the website design for our UX Design.
-Azure - We are using Microsoft Azure to host our website.
+The list of adopted technologies our project utilizes is the following:
+
+- React: We are using React to write out JavaScript and HTML in order to make working on the frontend more object oriented as we are able to make components. <br>
+- Vite: We are using Vite as our development server in order to preview our React UI.
+- SQLite: <br>
+- pnpm: We are using pnpm as our package manager to better manage our disk space during project development. <br>
+- Node.js: We are using Node.js to be our JavaScript runtime enviorment as we have previous experience using. <br>
+- Figma: We used Figma to finalize the website design for our UX Design as we wanted to be able to make a mockup of what we wanted our site to look like. <br>
+- Azure: We are using Microsoft Azure to host our website as many of us have experience using this platform from previous coursework. <br>
 
 Grading criteria (1 point): This section will be evaluated in terms of correctness, completeness, thoroughness, consistency, coherence, and adequate use of language.
 
