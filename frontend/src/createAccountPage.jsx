@@ -38,5 +38,5 @@ function SubmitButton() {
         <div>
             <button className="submitButton">Submit</button>
         </div>
-    )
+    );
 }
