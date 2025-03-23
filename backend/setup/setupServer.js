@@ -2,7 +2,7 @@ import 'dotenv/config';
 import cors from "cors";
 import express from "express";
 import bodyParser from 'body-parser';
-
+import setupRouter from './setupRouter.js';
 
 // use cors to allow access from frontend
 export default () => {
@@ -17,4 +17,8 @@ export default () => {
         origin: ['http://localhost:3000', 'http://localhost:5173']
     }));
 
+    // set up the API routes
+    setupRouter(app);
+
+    return app;
 }
