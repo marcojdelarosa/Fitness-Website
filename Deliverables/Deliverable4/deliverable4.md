@@ -75,14 +75,18 @@ _Grading criteria (8 points):_ This section will be evaluated in terms of corre
 
 # Tests
 
-- You should implement automated tests that aim to verify the correct behavior of your code. Provide the following information:
-- Test framework you used to develop your tests (e.g., JUnit, unittest, pytest, etc.)
-- Link to your GitHub folder where your automated unit tests are located.
-- An example of a test case. Include in your answer a GitHub link to the class being tested and to the test.
-- A print screen showing the result of the execution of the automated tests. 
+We used the Vitest framework for testing the project. For HTTP testing, we also used the Supertest library in order to simulate HTTP requests. The unit tests are stored in the [backend/test](https://github.com/McKayHartman/Fitness-Website/tree/main/backend/test)  folder. 
 
-_Grading criteria (3 points):_ You should have an adequate number of automated tests. They should be well-written to exercise the main components of your system, covering the relevant inputs.
+A simple example of a unit test case is such: the "[sameHash](https://github.com/McKayHartman/Fitness-Website/blob/main/backend/test/auth.test.js)" test tests if a hash comparison function works correctly by hashing a string and immediately comparing it with itself using the function.
 
+```
+test('sameHash', async () => {
+    expect(await sameHash('x', await hash('x'))).toBe(true);
+})
+```
+
+
+![Successful test cases](./images/test-cases.jpg)
 # Technology
 
 List the adopted technologies with a brief description and justification for choosing them.
