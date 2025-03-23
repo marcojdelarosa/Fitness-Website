@@ -47,12 +47,12 @@ Implemented by: Marco de la Rosa <br>
 Approved by: Lacy Hamilton <br>
 Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
-Requirement: <br>
-Issue: <link to your GitHub issue> <br>
-Pull request: <br>
+Requirement: As a frequent web user I would like to be able to log in to my account to access my personal settings and data. <br>
+Issue:[Link] (https://github.com/McKayHartman/Fitness-Website/issues/70) <br>
+Pull request: [Link](https://github.com/McKayHartman/Fitness-Website/pull/74)<br>
 Implemented by: McKay Hartman <br>
 Approved by: Lacy Hamilton <br> 
-Print screen: A print screen that depicts the implemented feature (if applicable) <br>
+Print screen: ![Log In Page](https://github.com/McKayHartman/Fitness-Website/tree/main/Deliverables/Deliverable4/Images/Login.png) <br>
 
 
 List in this section, the requirements and associated pull request that you implemented for this release, following the example below---include the description of the requirement, a link to the issue, a link to the pull request(s) that implement the requirement, who implemented the requirement, who approved it, and a print screen that depicts the implemented feature (if applicable). I expect that you implement the features you specified in your MVP (c.f. D.2 Requirements). 
