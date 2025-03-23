@@ -133,10 +133,11 @@ Your repository should contain a CONTRIBUTING.md file, a LICENSE file, and a COD
 _Grading criteria (3 points):_ This section will be based on the presence and quality of the information presented in the files.
 
 # UX Design
+For our user interface, we planned out basic design using tools like Figma. The UX should be intuitive and simplistic to streamline the process of creating accounts and accessing features.
 
-Describe the approach you adopted to design your user interface. Include some screenshots.
-
-_Grading criteria (3 points):_ This section will be graded based on the appearance (aesthetics) and usability (ease of use) of the system.
+![loginUX](/Images/loginUX.png)
+![registerUX](/Images/registerUX.png)
+![headerUX](/Images/headerUX.png)
 
 # Lessons Learned
 
