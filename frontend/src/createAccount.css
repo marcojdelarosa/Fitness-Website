@@ -1,0 +1,24 @@
+/*main page styling, break page into two halves*/
+.container {
+    display: flex;
+    /*orient boxes side-by-side*/
+    flex-direction: row;
+}
+
+/*styling for each half of the main row flex*/
+.flex-container {
+    display: flex;
+    flex-direction: column;
+
+    padding: 30px;
+    margin: 30px;
+    margin-top: 25%;
+}
+/*styling for main layout children elements*/
+.container > *{
+    background-color: white;
+    color: #414154;
+
+    border: 1px solid white;
+    border-radius: 10%;
+}
