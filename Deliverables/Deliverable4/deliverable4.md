@@ -85,7 +85,7 @@ test('sameHash', async () => {
 })
 ```
 
-
+Here are the results of the tests being run.
 ![Successful test cases](./images/test-cases.jpg)
 # Technology
 
@@ -94,8 +94,8 @@ List the adopted technologies with a brief description and justification for cho
 The list of adopted technologies our project utilizes is the following:
 
 - React: We are using React to write out JavaScript and HTML in order to make working on the frontend more object oriented as we are able to make components. <br>
-- Vite: We are using Vite as our development server in order to preview our React UI.
-- SQLite: <br>
+- Vite: We are using Vite as our development server in order to preview our React UI, and bundle the pages for production.
+- SQLite: We are using SQLite for our database, as it is simple to deploy and works well for a smaller project such as this.<br>
 - pnpm: We are using pnpm as our package manager to better manage our disk space during project development. <br>
 - Node.js: We are using Node.js to be our JavaScript runtime enviorment as we have previous experience using. <br>
 - Figma: We used Figma to finalize the website design for our UX Design as we wanted to be able to make a mockup of what we wanted our site to look like. <br>
