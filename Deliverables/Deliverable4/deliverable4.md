@@ -8,9 +8,9 @@ _Grading criteria (1 point):_ This section will be evaluated in terms of correc
 
 # Requirements
 
-Requirement: <br>
-Issue: <link to your GitHub issue> <br>
-Pull request: <br>
+Requirement: As an interested fitness newcomer, I want to be able to create a personal account. <br>
+Issue: (https://github.com/McKayHartman/Fitness-Website/issues/65) <br>
+Pull request: https://github.com/McKayHartman/Fitness-Website/pull/77 <br>
 Implemented by: Bryce Panza <br>
 Approved by: Lacy Hamilton <br>
 Print screen: A print screen that depicts the implemented feature (if applicable) <br>
