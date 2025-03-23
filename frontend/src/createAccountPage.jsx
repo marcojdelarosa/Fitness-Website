@@ -2,11 +2,12 @@ import Header from "./Header";
 // lay out web page
 export default function CreateAccountPage() {
     return (
-        <div className="container">
+        <>
             <Header />
-            <TextField />
-            <TextField id="right" />
-        </div>
+            <div className="container">
+                <TextField />
+            </div>
+        </>
     );
 }
 
@@ -14,20 +15,19 @@ export default function CreateAccountPage() {
 function TextField() {
     return (
         <div className="flex-container">
-            <h1>Section Title</h1>
-            <Textbox />
-            <Textbox />
-            <Textbox />
+            <h1>Create Account</h1>
+            <Textbox title="Email" />
+            <Textbox title="Username" />
+            <Textbox title="Password" />
             <SubmitButton />
         </div>
     );
 }
-
-// lay out each title and input field
-function Textbox() {
+// modify Textbox function to accept a title argument
+function Textbox({ title }) {
     return (
         <div className="flex-item">
-            <p>Title</p>
+            <p>{title}</p>
             <input />
         </div>
     );
