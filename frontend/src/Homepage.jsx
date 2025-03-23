@@ -13,7 +13,7 @@ function Homepage(){
                 </header>
 
                 <div className="body">
-                    <img src={image} alt="Fitness Image"/>
+                    {/*<img src={image} alt="Fitness Image"/> image not yet working*/}
                 </div>
 
                 <footer>
