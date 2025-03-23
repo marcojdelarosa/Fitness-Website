@@ -9,7 +9,7 @@ _Grading criteria (1 point):_ This section will be evaluated in terms of correc
 # Requirements
 
 Requirement: As an interested fitness newcomer, I want to be able to create a personal account. <br>
-Issue: (https://github.com/McKayHartman/Fitness-Website/issues/65) <br>
+Issue: https://github.com/McKayHartman/Fitness-Website/issues/65 <br>
 Pull request: https://github.com/McKayHartman/Fitness-Website/pull/77 <br>
 Implemented by: Bryce Panza <br>
 Approved by: Lacy Hamilton <br>
