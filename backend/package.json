@@ -5,7 +5,9 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:print": "vitest --ui --disable-console-intercept --silent=false"
   },
   "keywords": [],
   "author": "",
@@ -21,8 +23,10 @@
     "sqlite3": "^5.1.7"
   },
   "devDependencies": {
+    "@vitest/ui": "^3.0.9",
     "drizzle-kit": "^0.30.4",
     "prettier": "3.5.3",
+    "supertest": "^7.1.0",
     "vitest": "^3.0.9"
   }
 }
