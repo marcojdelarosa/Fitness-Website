@@ -1,8 +1,9 @@
-
+import Header from "./Header";
 // lay out web page
 export default function CreateAccountPage() {
     return (
         <div className="container">
+			<Header />
             <TextField />
             <TextField id="right"/>
         </div>
