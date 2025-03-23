@@ -86,7 +86,7 @@ test('sameHash', async () => {
 ```
 
 Here are the results of the tests being run.
-![Successful test cases](./images/test-cases.jpg)
+![Successful test cases](./Images/test-cases.jpg)
 # Technology
 
 List the adopted technologies with a brief description and justification for choosing them.
@@ -135,9 +135,9 @@ _Grading criteria (3 points):_ This section will be based on the presence and q
 # UX Design
 For our user interface, we planned out basic design using tools like Figma. The UX should be intuitive and simplistic to streamline the process of creating accounts and accessing features. Much of the design is tied to inherited variables so that we can change things like colors globally if we choose to do so.
 
-[loginUX](/Images/loginUX.png)
-[registerUX](/Images/registerUX.png)
-[headerUX](/Images/headerUX.png)
+![loginUX](/Images/loginUX.png)
+![registerUX](/Images/registerUX.png)
+![headerUX](/Images/headerUX.png)
 
 # Lessons Learned
 
