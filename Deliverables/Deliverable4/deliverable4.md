@@ -1,8 +1,9 @@
 # Introduction
 
-Provide a short paragraph that describes your system. This paragraph should contain the value proposition and a description of the main features of the software. At the end of the introduction, include a link to your project on GitHub.
+This project currently consists of an assortment of individual pages aimed to adhere to our 
+This project's value proposition is: We help fitness newcomers build confidence and independence by offering an online learning platform that teaches newcomers the best way to begin and supports them into becoming consistent. To accomplish this, an *About* page was created to inform any users of this project's value. The system also contains a *Create Account* and a *Login* page, creating fields for users to input their information when they wish to create an account or log back in to their account. <br>
+Follow [this link](https://github.com/McKayHartman/Fitness-Website) to view the current state of this project.
 
-_Grading criteria (1 point):_ This section will be evaluated in terms of correctness, completeness, thoroughness, consistency, coherence, and adequate use of language. The description should be consistent with the current state of the project. You should include the link to GitHub.
 
 # Requirements
 
