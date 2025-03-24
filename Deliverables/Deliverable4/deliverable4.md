@@ -11,23 +11,23 @@ Issue: https://github.com/McKayHartman/Fitness-Website/issues/65 <br>
 Pull request: https://github.com/McKayHartman/Fitness-Website/pull/77 <br>
 Implemented by: Bryce Panza <br>
 Approved by: Lacy Hamilton <br>
-Print screen: A print screen that depicts the implemented feature (if applicable) <br>
+Print screen: ![createAccountUX](./Images/createaccount.png) <br>
 
 
-Requirement: <br>
-Issue: <link to your GitHub issue> <br>
-Pull request: <br>
+Requirement: As a new user, I would like to gather information about the site and its purpose. <br>
+Issue: https://github.com/McKayHartman/Fitness-Website/issues/103 <br>
+Pull request: https://github.com/McKayHartman/Fitness-Website/pull/87 <br>
 Implemented by: Christian Lamb <br>
 Approved by: Lacy Hamilton <br>
-Print screen: A print screen that depicts the implemented feature (if applicable) <br>
+Print screen: ![aboutUX](./Images/about.png) <br>
 
 
-Requirement: As a web user, I would like to be able to be directed to the homepage. <br>
+Requirement: As a web user, I would like to be able to be directed to the homepage when visiting site. <br>
 Issue: [#71](https://github.com/McKayHartman/Fitness-Website/issues/71) <br>
 Pull request: [#72](https://github.com/McKayHartman/Fitness-Website/pull/72) <br>
 Implemented by: Lacy Hamilton <br>
 Approved by: McKay Hartman <br>
-Print screen: A print screen that depicts the implemented feature (if applicable) <br>
+Print screen: ![homepageUX](./Images/homepage.png) <br>
 
 
 Requirement: <br>
@@ -35,7 +35,7 @@ Issue: <link to your GitHub issue> <br>
 Pull request: <br>
 Implemented by: Logan Hunt <br>
 Approved by: Lacy Hamilton <br>
-Print screen: A print screen that depicts the implemented feature (if applicable) <br>
+Print screen: ![headerUX](./Images/headerUX.png) <br>
 
 
 Requirement: <br>
@@ -47,11 +47,11 @@ Print screen: A print screen that depicts the implemented feature (if applicable
 
 
 Requirement: As a frequent web user I would like to be able to log in to my account to access my personal settings and data. <br>
-Issue:[#70](https://github.com/McKayHartman/Fitness-Website/issues/70) <br>
+Issue: [#70](https://github.com/McKayHartman/Fitness-Website/issues/70) <br>
 Pull request: [#74](https://github.com/McKayHartman/Fitness-Website/pull/74) <br>
 Implemented by: McKay Hartman <br>
 Approved by: Lacy Hamilton <br> 
-Print screen: [Log In Page](https://github.com/McKayHartman/Fitness-Website/tree/main/Deliverables/Deliverable4/Images/Login.png) <br>
+Print screen: ![loginUX](./Images/login.png) <br>
 
 
 List in this section, the requirements and associated pull request that you implemented for this release, following the example below---include the description of the requirement, a link to the issue, a link to the pull request(s) that implement the requirement, who implemented the requirement, who approved it, and a print screen that depicts the implemented feature (if applicable). I expect that you implement the features you specified in your MVP (c.f. D.2 Requirements). 
