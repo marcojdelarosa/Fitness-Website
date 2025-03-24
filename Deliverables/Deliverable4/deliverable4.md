@@ -1,7 +1,6 @@
 # Introduction
 
-This project currently consists of an assortment of individual pages aimed to adhere to our 
-This project's value proposition is: We help fitness newcomers build confidence and independence by offering an online learning platform that teaches newcomers the best way to begin and supports them into becoming consistent. To accomplish this, an *About* page was created to inform any users of this project's value. The system also contains a *Create Account* and a *Login* page, creating fields for users to input their information when they wish to create an account or log back in to their account. <br>
+This project currently consists of an assortment of individual pages aimed to adhere to our predetermined goals as previously stated in our value statement, whcih goes as follow: We help fitness newcomers build confidence and independence by offering an online learning platform that teaches newcomers the best way to begin and supports them into becoming consistent. To accomplish this, an *About* page was created to inform any users of this project's value. The system also contains a *Create Account* and a *Login* page, creating fields for users to input their information when they wish to create an account or log back in to their account. <br>
 Follow [this link](https://github.com/McKayHartman/Fitness-Website) to view the current state of this project.
 
 
