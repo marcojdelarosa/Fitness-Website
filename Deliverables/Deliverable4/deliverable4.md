@@ -1,5 +1,3 @@
-For this deliverable, you should have a fully functional piece of software that delivers a set of features (don’t need to be the complete set, but it needs to be a working prototype). Structure your deliverable according to the following sections.
-
 # Introduction
 
 Provide a short paragraph that describes your system. This paragraph should contain the value proposition and a description of the main features of the software. At the end of the introduction, include a link to your project on GitHub.
@@ -47,6 +45,7 @@ Implemented by: Marco de la Rosa <br>
 Approved by: Lacy Hamilton <br>
 Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
+
 Requirement: As a frequent web user I would like to be able to log in to my account to access my personal settings and data. <br>
 Issue:[#70](https://github.com/McKayHartman/Fitness-Website/issues/70) <br>
 Pull request: [#74](https://github.com/McKayHartman/Fitness-Website/pull/74) <br>
@@ -86,10 +85,9 @@ test('sameHash', async () => {
 ```
 
 Here are the results of the tests being run.
-![Successful test cases](./Images/test-cases.jpg)
-# Technology
+![Successful test cases](./images/test-cases.jpg)
 
-List the adopted technologies with a brief description and justification for choosing them.
+# Technology
 
 The list of adopted technologies our project utilizes is the following:
 
@@ -100,8 +98,6 @@ The list of adopted technologies our project utilizes is the following:
 - Node.js: We are using Node.js to be our JavaScript runtime enviorment as we have previous experience using. <br>
 - Figma: We used Figma to finalize the website design for our UX Design as we wanted to be able to make a mockup of what we wanted our site to look like. <br>
 - Azure: We are using Microsoft Azure to host our website as many of us have experience using this platform from previous coursework. <br>
-
-Grading criteria (1 point): This section will be evaluated in terms of correctness, completeness, thoroughness, consistency, coherence, and adequate use of language.
 
 # Deployment
 
@@ -129,9 +125,9 @@ We adopted a MIT License as we just wanted to have a simple license. The MIT Lic
 # UX Design
 For our user interface, we planned out basic design using tools like Figma. The UX should be intuitive and simplistic to streamline the process of creating accounts and accessing features. Much of the design is tied to inherited variables so that we can change things like colors globally if we choose to do so.
 
-![loginUX](/Images/loginUX.png)
-![registerUX](/Images/registerUX.png)
-![headerUX](/Images/headerUX.png)
+![loginUX](./Images/loginUX.png)
+![registerUX](./Images/registerUX.png)
+![headerUX](./Images/headerUX.png)
 
 # Lessons Learned
 
