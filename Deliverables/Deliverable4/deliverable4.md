@@ -138,6 +138,6 @@ The team has also improved their workflow by better assigning tasks appropriate 
 
 # Demo
 
-Include a link to a video showing the system working.
+![Youtube Video](https://youtu.be/Zol3ltbpPQY)
 
 _Grading criteria (5 points):_ This section will be graded based on the quality of the video and on the evidence that the features are running as expected. Additional criteria are the relevance of the demonstrated functionalities, the correctness of the functionalities, and the quality of the developed system from the external point of view (user interface).
