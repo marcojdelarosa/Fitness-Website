@@ -31,9 +31,9 @@ Approved by: McKay Hartman <br>
 Print screen: ![homepageUX](./Images/homepage.png) <br>
 
 
-Requirement: <br>
-Issue: <link to your GitHub issue> <br>
-Pull request: <br>
+Requirement: As a web user I would like to be able to navigiate through the website and see what page I am on<br>
+Issue: [#100](https://github.com/McKayHartman/Fitness-Website/issues/100) <br>
+Pull request: [#59](https://github.com/McKayHartman/Fitness-Website/pull/59)<br>
 Implemented by: Logan Hunt <br>
 Approved by: Lacy Hamilton <br>
 Print screen: ![headerUX](./Images/headerUX.png) <br>
