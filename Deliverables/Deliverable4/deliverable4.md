@@ -39,12 +39,11 @@ Approved by: Lacy Hamilton <br>
 Print screen: ![headerUX](./Images/headerUX.png) <br>
 
 
-Requirement: <br>
-Issue: <link to your GitHub issue> <br>
-Pull request: <br>
+Requirement: As a web user, I would like to be able to navigate through different pages.<br>
+Issue: [#88](https://github.com/McKayHartman/Fitness-Website/issues/88) <link to your GitHub issue> <br>
+Pull request: [#78](https://github.com/McKayHartman/Fitness-Website/pull/78) <br>
 Implemented by: Marco de la Rosa <br>
 Approved by: Lacy Hamilton <br>
-Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
 
 Requirement: As a frequent web user I would like to be able to log in to my account to access my personal settings and data. <br>
