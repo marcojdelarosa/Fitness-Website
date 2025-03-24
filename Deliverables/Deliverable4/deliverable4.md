@@ -25,8 +25,8 @@ Print screen: A print screen that depicts the implemented feature (if applicable
 
 
 Requirement: As a web user, I would like to be able to be directed to the homepage. <br>
-Issue: [Link](https://github.com/McKayHartman/Fitness-Website/issues/71) <br>
-Pull request: [Link](https://github.com/McKayHartman/Fitness-Website/pull/72) <br>
+Issue: [#71](https://github.com/McKayHartman/Fitness-Website/issues/71) <br>
+Pull request: [#72](https://github.com/McKayHartman/Fitness-Website/pull/72) <br>
 Implemented by: Lacy Hamilton <br>
 Approved by: McKay Hartman <br>
 Print screen: A print screen that depicts the implemented feature (if applicable) <br>
@@ -48,8 +48,8 @@ Approved by: Lacy Hamilton <br>
 Print screen: A print screen that depicts the implemented feature (if applicable) <br>
 
 Requirement: As a frequent web user I would like to be able to log in to my account to access my personal settings and data. <br>
-Issue:[Link] (https://github.com/McKayHartman/Fitness-Website/issues/70) <br>
-Pull request: [Link](https://github.com/McKayHartman/Fitness-Website/pull/74)<br>
+Issue:[#70](https://github.com/McKayHartman/Fitness-Website/issues/70) <br>
+Pull request: [#74](https://github.com/McKayHartman/Fitness-Website/pull/74) <br>
 Implemented by: McKay Hartman <br>
 Approved by: Lacy Hamilton <br> 
 Print screen: [Log In Page](https://github.com/McKayHartman/Fitness-Website/tree/main/Deliverables/Deliverable4/Images/Login.png) <br>
@@ -122,15 +122,9 @@ We adopted a MIT License as we just wanted to have a simple license. The MIT Lic
 
 # Readme File
 
-CONTRIBUTING.md:
-LICENSE:
-CODE_OF_CONDUCT:
-
-You should also prepare your repository for receiving new contributors. You should prepare a Readme.md file. See an example at https://gist.github.com/PurpleBooth/109311bb0361f32d87a2   In the Readme file, the current version should be stated. You should follow the Semantic Versioning schema (https://semver.org/). Tag the GitHub repository accordingly (https://git-scm.com/book/en/v2/Git-Basics-Tagging). 
-
-Your repository should contain a CONTRIBUTING.md file, a LICENSE file, and a CODE_OF_CONDUCT.md file. Search online for some examples of these files. In this section of the deliverable, put links to these files on GitHub.
-
-_Grading criteria (3 points):_ This section will be based on the presence and quality of the information presented in the files.
+[CONTRIBUTING.md](https://github.com/McKayHartman/Fitness-Website/blob/main/README.md) <br>
+[LICENSE](https://github.com/McKayHartman/Fitness-Website/blob/main/LICENSE) <br>
+[CODE_OF_CONDUCT.md](https://github.com/McKayHartman/Fitness-Website/blob/main/CODE_OF_CONDUCT.md) <br>
 
 # UX Design
 For our user interface, we planned out basic design using tools like Figma. The UX should be intuitive and simplistic to streamline the process of creating accounts and accessing features. Much of the design is tied to inherited variables so that we can change things like colors globally if we choose to do so.
