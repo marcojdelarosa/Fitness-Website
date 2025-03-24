@@ -16,17 +16,17 @@ To run the frontend, run `pnpm run dev`.
 Release v1.0
 
 # Testing
-cd into the **backend** directory.
+`cd` into the **backend** directory. <br>
 Run the below command to run automated tests:
-'pnpm test:ui'
+`pnpm test:ui`
 
 # Authors
--Bryce Panza
--Lacy Hamilton
--Marco de la Rosa
--McKay Hartman
--Christian Lamb
--Logan Hunt
+- Bryce Panza
+- Lacy Hamilton
+- Marco de la Rosa
+- McKay Hartman
+- Christian Lamb
+- Logan Hunt
 
 # License
 This project has its own developed [license](https://github.com/McKayHartman/Fitness-Website/blob/main/LICENSE). Please read over this file for more details.
