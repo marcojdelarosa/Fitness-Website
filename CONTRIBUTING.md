@@ -4,7 +4,7 @@ We appreciate your consideration for this project, and we are always happy to ac
 
 ## Testing
 
-We are using ViTest for http testing. Please write a test for this framework whenever it is necessary.
+We are using Vitest for http testing. Please write a test for this framework whenever it is necessary.
 
 ## Submitting changes
 
